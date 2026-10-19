@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-manifest.json
+.vercel/
+.playwright-mcp/
+.env
+.env.*
+*.log
+.DS_Store

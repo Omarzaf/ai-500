@@ -1,0 +1,1018 @@
+{
+  "schemaVersion": 1,
+  "edition": "2026-10-19",
+  "people": 500,
+  "portraits": 162,
+  "files": [
+    {
+      "path": ".github/CODEOWNERS",
+      "bytes": 11,
+      "sha256": "71be8a629e2e3727c13336dbfd9a2b75929a6e04ac039cbdefdc5a964ad26ddf"
+    },
+    {
+      "path": ".github/dependabot.yml",
+      "bytes": 194,
+      "sha256": "90abb8b57322591e1319fc7c7cb91faf82160c5b57b12347542cb29658b6d605"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 706,
+      "sha256": "9084ca2d6fea5e9fc016d12e51cb682c0483d4cc194ba203545e50ce4b51395a"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 93,
+      "sha256": "a825998be1545e94ee7c0bb9d28cfcfeb9bdb9f3964d805977f07649b43ee1ce"
+    },
+    {
+      "path": ".prettierrc.json",
+      "bytes": 153,
+      "sha256": "2501b2933173be1b761d0fa131b175801f3c220198d70cb7f03c6df6c6004ab7"
+    },
+    {
+      "path": ".vercelignore",
+      "bytes": 73,
+      "sha256": "a2d0a9aeac12b9194868462af3784d0774330147fa77e4ab9f95d11af11a4578"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1097,
+      "sha256": "658572ebd8e0b3d071943dc3711288e1e6f8136a702b10291ac290b9a5174320"
+    },
+    {
+      "path": "METHODOLOGY.md",
+      "bytes": 3318,
+      "sha256": "921efb8d3cad89e3d6435136ec2f6676ac7fd9773cca895c66ac58ace91c12c9"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1170,
+      "sha256": "b84fcc213046bbed582e5cbe7dc02cb69dd646d1a49613f8e48012d36d3bb028"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2092,
+      "sha256": "2e046e0ef96c9b2dd10317943a321f61a363f70160ca7d103413b7686dfb7d91"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1301,
+      "sha256": "89dc144d1695b4a4fe92e85ae41560c3a2547ba17d3646abe1da6ea3188d69f4"
+    },
+    {
+      "path": "api/directory.ts",
+      "bytes": 1803,
+      "sha256": "4cbe3a7ece34e3d703a1e9dd8a9b59ce98eb55d932d1468c88581fbafb7493d0"
+    },
+    {
+      "path": "assets/portraits/aidan-gomez.jpg",
+      "bytes": 29369,
+      "sha256": "81e935ef35333d64952e7adb5db5f4d0b40b9e8c26de6d2390cadc728b85ee28"
+    },
+    {
+      "path": "assets/portraits/alex-zhavoronkov.png",
+      "bytes": 123622,
+      "sha256": "3018f91e1e48fc057d14b35afd0f73fc0c68ed829b019548301637ac54d113d3"
+    },
+    {
+      "path": "assets/portraits/alexandr-wang.jpg",
+      "bytes": 28983,
+      "sha256": "13f82ad32f9e24463b5c40f9c42ba66361ec505f9cff0bbbd12a39b1c0376d82"
+    },
+    {
+      "path": "assets/portraits/ali-ghodsi.jpg",
+      "bytes": 14256,
+      "sha256": "702f7f5872e6066642a8008b60d48feef31667824ce46f692e994b97a544cbe6"
+    },
+    {
+      "path": "assets/portraits/alondra-nelson.jpg",
+      "bytes": 22151,
+      "sha256": "ab888053af0d395275c5553a7efea0b3fff18a213bc6eb1ae6dab1e5810a1b61"
+    },
+    {
+      "path": "assets/portraits/amandeep-singh-gill.jpg",
+      "bytes": 42151,
+      "sha256": "8601d08deade999c26a75b59b8371d85e782aaed15aa0a576f7ce170908af6a8"
+    },
+    {
+      "path": "assets/portraits/amnon-shashua.jpg",
+      "bytes": 76862,
+      "sha256": "5d514b1942e3bfea0f64913e781b53d50673c5e072a1f8ed814f60e6f4c40c8b"
+    },
+    {
+      "path": "assets/portraits/andrej-karpathy.png",
+      "bytes": 160476,
+      "sha256": "fb8e473493e594fc4bb21e14059cba1b821c4fd21ef0480e5ea5ed768e37aa07"
+    },
+    {
+      "path": "assets/portraits/andrew-ng.jpg",
+      "bytes": 33502,
+      "sha256": "33c837bd097f761952c71a60a291a10f703fd4349e5b9ce05760191bdc47ab5a"
+    },
+    {
+      "path": "assets/portraits/andy-jassy.jpg",
+      "bytes": 27558,
+      "sha256": "048dceb53870fa0c54dd65a89329923c6b9d7a1fca4855d1ca05fee01377f11f"
+    },
+    {
+      "path": "assets/portraits/anima-anandkumar.jpg",
+      "bytes": 26334,
+      "sha256": "86d6a6b1f82050566d2779472088ab9329d30de88f69f2e308d84fe0b8b3442c"
+    },
+    {
+      "path": "assets/portraits/anirudh-devgan.jpg",
+      "bytes": 15695,
+      "sha256": "25941caf55ddb0dd2ce59e27e238292721cfeef08934092af87cb6170d94d17f"
+    },
+    {
+      "path": "assets/portraits/anton-korinek.jpg",
+      "bytes": 65468,
+      "sha256": "57e18e7f8915d67009807046c1ae0f8b36febd277ffb294080577b37448bd807"
+    },
+    {
+      "path": "assets/portraits/anton-osika.jpg",
+      "bytes": 39654,
+      "sha256": "1078d291dfd2c2f67102141fcacbaf1203276103083abeafb5aad6ccdd2793bd"
+    },
+    {
+      "path": "assets/portraits/arthur-mensch.png",
+      "bytes": 237338,
+      "sha256": "20fc217b025ac864a03c31898c731238b35b342d4355a7d43b678a7876a84905"
+    },
+    {
+      "path": "assets/portraits/arvind-krishna.jpg",
+      "bytes": 7992,
+      "sha256": "1aa9c6d72e0d1968642dd2800f037abe547c9ccee33ec2235abb00c06a55b652"
+    },
+    {
+      "path": "assets/portraits/aude-billard.jpg",
+      "bytes": 31385,
+      "sha256": "b0c661a18db903fed6a58ccc6c9ca14ad0da1b0156d95450c3b8ab6b5c1a9596"
+    },
+    {
+      "path": "assets/portraits/azeem-azhar.png",
+      "bytes": 107593,
+      "sha256": "d06b983120c01e5664e311881b853dc4c683c90bac8a2b7017faee21a204a808"
+    },
+    {
+      "path": "assets/portraits/bob-van-luijt.jpg",
+      "bytes": 29694,
+      "sha256": "615411cc01cd163252bb0a5208eac52524894dc9a8ce4cd691a39dd2158a51ae"
+    },
+    {
+      "path": "assets/portraits/brett-adcock.jpg",
+      "bytes": 24257,
+      "sha256": "c5a71060845f22f89e0a0edebd3e5fb11332b9722915e2afab99e1d8faff6fe8"
+    },
+    {
+      "path": "assets/portraits/carla-gomes.jpg",
+      "bytes": 36241,
+      "sha256": "094d70149701f731f7789fd141c9b9baf62260783fedf31406ef2d7caf3cca50"
+    },
+    {
+      "path": "assets/portraits/charles-liang.jpg",
+      "bytes": 29240,
+      "sha256": "42986defb3fcb03972b2e0b03dce60ff551e985c9f7805cfe3b3428c0ba1d4fb"
+    },
+    {
+      "path": "assets/portraits/chris-urmson.jpg",
+      "bytes": 19303,
+      "sha256": "c2bde49b8a61874eb0e4131a4a9a6aa3765e6133505ead09592f9430c8fef710"
+    },
+    {
+      "path": "assets/portraits/cristiano-amon.jpg",
+      "bytes": 41113,
+      "sha256": "9a4ee2bad8b6284ef3287a552809dc5d8f27c544d04022ac83adee6bde478045"
+    },
+    {
+      "path": "assets/portraits/cristobal-valenzuela.jpg",
+      "bytes": 30873,
+      "sha256": "fc4ca8219552efd2f610dd18cf97dbb112ea753bb6b0b1c3b84d5d5642867849"
+    },
+    {
+      "path": "assets/portraits/cynthia-breazeal.jpg",
+      "bytes": 28739,
+      "sha256": "bbfe2587fc6dc69efd84f2db02518c916dcd55d514de67fa301cff05166d6124"
+    },
+    {
+      "path": "assets/portraits/cynthia-rudin.png",
+      "bytes": 78428,
+      "sha256": "8989d137fb3da69a1f803b8457a15fdbefccb771be67a27894630537add728a4"
+    },
+    {
+      "path": "assets/portraits/dan-hendrycks.jpg",
+      "bytes": 41361,
+      "sha256": "94e94e637eca1f53fd8adf35ce67f841728e4a2ff8b211da3ec40e67d187c1d3"
+    },
+    {
+      "path": "assets/portraits/dan-jurafsky.jpg",
+      "bytes": 15408,
+      "sha256": "0e8b9fd168f1fc6bac50ee0a4a52caaf22e050f2550f457a59602af4beeac1fc"
+    },
+    {
+      "path": "assets/portraits/dan-roth.jpg",
+      "bytes": 35497,
+      "sha256": "5d2305adf7dd24d8a02023eef2ed04a021826b94181ddebe3b465f86ad903c77"
+    },
+    {
+      "path": "assets/portraits/daniela-rus.jpg",
+      "bytes": 31963,
+      "sha256": "210f4e1d184a0378e7062696fff91cf98554cde46c54e6e7a2e469dd31badeaf"
+    },
+    {
+      "path": "assets/portraits/danqi-chen.jpg",
+      "bytes": 27956,
+      "sha256": "1e5c68f2c120c57358226be7954283f84849f7e332713c170192c35c28bfbc9e"
+    },
+    {
+      "path": "assets/portraits/daphne-koller.jpg",
+      "bytes": 43191,
+      "sha256": "dd0ab69b0f4b095babff509ee9b1f5724640b2805aee83e0377d75eb289df068"
+    },
+    {
+      "path": "assets/portraits/dario-amodei.jpg",
+      "bytes": 33661,
+      "sha256": "2f3aa8651548771364d8d153c05a09c94d4fb109c8af0be73942f2f89ab9743f"
+    },
+    {
+      "path": "assets/portraits/daron-acemoglu.png",
+      "bytes": 218118,
+      "sha256": "0d83a2bea35c61497ecf49b2a922db3a41e5c840bf7bfaa672ef2e84b35879dd"
+    },
+    {
+      "path": "assets/portraits/demis-hassabis.jpg",
+      "bytes": 30046,
+      "sha256": "dc055c8c3e9bc96b3ae339cf62d509b2d6f16809e18fc03ca1f639d122556798"
+    },
+    {
+      "path": "assets/portraits/diane-coyle.jpg",
+      "bytes": 44313,
+      "sha256": "93f2d570f5705735648312efdd0d73d9600bae42d6fb18b34cc895d0862a1782"
+    },
+    {
+      "path": "assets/portraits/dieter-fox.jpg",
+      "bytes": 15730,
+      "sha256": "4356de9ad00b996462278edc64d0fe50a18fceb4563395df588d1c987a3aa1ac"
+    },
+    {
+      "path": "assets/portraits/dmitri-dolgov.jpg",
+      "bytes": 24981,
+      "sha256": "9daf7508101fab4a0b82d1e79349c1948fa1a61acb6e1bbf51a2745223f6338b"
+    },
+    {
+      "path": "assets/portraits/elon-musk.jpg",
+      "bytes": 29372,
+      "sha256": "17b60a4456d88b22f1dde4516f0047061867e3daadb36477754a95de3fe13109"
+    },
+    {
+      "path": "assets/portraits/emily-bender.jpg",
+      "bytes": 40873,
+      "sha256": "84de9ec52f35c1178e07b839fcf77f6d5bf6ff575007ee777e458f86ab5835ce"
+    },
+    {
+      "path": "assets/portraits/eric-xing.jpg",
+      "bytes": 23169,
+      "sha256": "dc3b6029d42a7526bf7a7b1b6519be08e2546142a95422c2ab8906e910484f4d"
+    },
+    {
+      "path": "assets/portraits/erik-brynjolfsson.jpg",
+      "bytes": 29780,
+      "sha256": "5cc69245f84cf09bb4b1bd68c2650bccbf8cc8f9d7cb84cf9a7b59ac1bd58c85"
+    },
+    {
+      "path": "assets/portraits/faisal-al-bannai.jpg",
+      "bytes": 12067,
+      "sha256": "e6390f453e0465cfbb325e6c3e220faad406543c0fde338440508d10c422b045"
+    },
+    {
+      "path": "assets/portraits/fidji-simo.png",
+      "bytes": 217722,
+      "sha256": "4687648673cb619367a5a8f82afadac41d22c2df127c53a37a652078afbf7a52"
+    },
+    {
+      "path": "assets/portraits/francesca-rossi.jpg",
+      "bytes": 17575,
+      "sha256": "fd0b533267a2bd0ea88b4229f27e3e8b20e204d2eae1270e0df0b0492b08cc71"
+    },
+    {
+      "path": "assets/portraits/francis-desouza.jpg",
+      "bytes": 31634,
+      "sha256": "a1251b2f6c08507b6408be5db68bdd2db6e4e7e5bb16ee6154fd46e8b25c7677"
+    },
+    {
+      "path": "assets/portraits/francois-chollet.jpg",
+      "bytes": 27056,
+      "sha256": "cb7ff6ae29de0daaf7e44b7d25abf2c27fb6199e9c7d4b882679cf258ac497e5"
+    },
+    {
+      "path": "assets/portraits/gary-marcus.jpg",
+      "bytes": 47945,
+      "sha256": "8c46888f6023c64365b96c7430ce797f3be8093f9304266bfdede51b8c601d4e"
+    },
+    {
+      "path": "assets/portraits/geoffrey-hinton.jpg",
+      "bytes": 22969,
+      "sha256": "d607cde2c4dcd73bdce8e10c9d242ed7253071fdf44e48c7385ba74b62f0bfe1"
+    },
+    {
+      "path": "assets/portraits/gillian-hadfield.jpg",
+      "bytes": 30036,
+      "sha256": "a82d74988f253516b762ca9051c03fde8a712762d3235b861a415974cbbc8bb4"
+    },
+    {
+      "path": "assets/portraits/gina-neff.jpg",
+      "bytes": 25078,
+      "sha256": "07986138dca8204866244c75e9bdbf2cf3ad0b309b3a06cd350fadeacff7f95c"
+    },
+    {
+      "path": "assets/portraits/greg-brockman.jpg",
+      "bytes": 31528,
+      "sha256": "ab77d9f3c9d986d3cca0c8248ff4da3bdb5465d4bfef00b24948ab93c4d338dd"
+    },
+    {
+      "path": "assets/portraits/hiroaki-kitano.jpg",
+      "bytes": 35161,
+      "sha256": "2f50f56a42d2f0a0ec18563da47a80b05d8fdea5d39be5b03a9a6f8c72397176"
+    },
+    {
+      "path": "assets/portraits/hiroshi-ishiguro.jpg",
+      "bytes": 60275,
+      "sha256": "06f9736fa068f772a484f13e3ab6d6695405854fdab24de012c2b521c305e17f"
+    },
+    {
+      "path": "assets/portraits/hock-tan.png",
+      "bytes": 191223,
+      "sha256": "e80937778a8734ec28f8dba96b60d53931450e3596add894a81e4d1c436b987d"
+    },
+    {
+      "path": "assets/portraits/ilya-sutskever.jpg",
+      "bytes": 11619,
+      "sha256": "6cf9275afe463cac9bbf702600c41835effc5e99fdee8cb820cda0170240078d"
+    },
+    {
+      "path": "assets/portraits/irene-solaiman.png",
+      "bytes": 122326,
+      "sha256": "d24fe5d3650565e6950711abbcf1427562261437b4865248b103d248704a17e5"
+    },
+    {
+      "path": "assets/portraits/iryna-gurevych.jpg",
+      "bytes": 23740,
+      "sha256": "ebf0c88e4bfe717372ac0d7f0d81aff40659a1e503d37c0fb695252b1ef16b2d"
+    },
+    {
+      "path": "assets/portraits/isabelle-augenstein.jpg",
+      "bytes": 33230,
+      "sha256": "36cf73bf6f1c82cc8d5b1d21e340bf92eb3e76fa20bbe163d0beda08aff09efd"
+    },
+    {
+      "path": "assets/portraits/isabelle-guyon.jpg",
+      "bytes": 40121,
+      "sha256": "f49473fa78a35086b81d4c2146717eacb2b16d1e89807291cedc9d3dc2062e3d"
+    },
+    {
+      "path": "assets/portraits/jade-leung.jpg",
+      "bytes": 391261,
+      "sha256": "3d8140e523d44e6bfc553fd81e6661db131b476cc0b8264ea69c691fd4989f48"
+    },
+    {
+      "path": "assets/portraits/jakub-pachocki.jpg",
+      "bytes": 25221,
+      "sha256": "454fb97b30d643df09248adc722f6c401fadd2b9a7512bc6b134b02822a0d32d"
+    },
+    {
+      "path": "assets/portraits/jared-kaplan.jpg",
+      "bytes": 28332,
+      "sha256": "5c60aeb448d1525d145c4daaefd5bcb3138662c8e9aab809245c97df5d156fe7"
+    },
+    {
+      "path": "assets/portraits/jeff-dean.jpg",
+      "bytes": 19319,
+      "sha256": "0c88a6f149a938150033226be2c113238f68b4d4cca431bc8a46a0a14b498f72"
+    },
+    {
+      "path": "assets/portraits/jensen-huang.jpg",
+      "bytes": 36014,
+      "sha256": "2587117918bcd44955e0f51c1a418f04d6d2a19b818bc80686fc0d5cb6c69c25"
+    },
+    {
+      "path": "assets/portraits/jitendra-malik.jpg",
+      "bytes": 15188,
+      "sha256": "2f2114e8fe11018860c157f7f84088170f783b81d1019e6aa9d5434392de3a34"
+    },
+    {
+      "path": "assets/portraits/joanna-bryson.jpg",
+      "bytes": 23247,
+      "sha256": "7e0fd84e892f79f4fc0bda9733b6ae4dff51da05a7324b59f916ce5488113214"
+    },
+    {
+      "path": "assets/portraits/joelle-pineau.jpg",
+      "bytes": 28896,
+      "sha256": "5f0007ce9fa5a2c54b78dcab43b2b4c3d1ca41f17f7c044c0466392e848d3a5e"
+    },
+    {
+      "path": "assets/portraits/joy-buolamwini.jpg",
+      "bytes": 25846,
+      "sha256": "c621823ee9e6d8e1d25c6e3cce99bc780399707e089eab94bb3a53b126bbe63a"
+    },
+    {
+      "path": "assets/portraits/jure-leskovec.jpg",
+      "bytes": 18759,
+      "sha256": "7036f856b6eec712afbf52ade930820e38094fc613baae49480b8eaf2818e1ed"
+    },
+    {
+      "path": "assets/portraits/jurgen-schmidhuber.jpg",
+      "bytes": 30200,
+      "sha256": "151051b9ae14147a951c3bfb0113780d45306db2ae9a751e64391827987b5e18"
+    },
+    {
+      "path": "assets/portraits/kai-fu-lee.jpg",
+      "bytes": 28601,
+      "sha256": "133f9f7dd24421c08ec9e9977545d60fa3117a9756b5294279b4cd1f94b47006"
+    },
+    {
+      "path": "assets/portraits/kanjun-qiu.jpg",
+      "bytes": 20455,
+      "sha256": "5d5a89a8bcb9cbd9189a473836bd007645caada882332f9575a54d4ccdb8458d"
+    },
+    {
+      "path": "assets/portraits/karen-hao.jpg",
+      "bytes": 54095,
+      "sha256": "02f2a1bcf78532327996abfd459caee2c36e636e121ee0ca3abba583230f1b6c"
+    },
+    {
+      "path": "assets/portraits/kashmir-hill.jpg",
+      "bytes": 23782,
+      "sha256": "ea77e1beeb7f8fb247b414a6a1e2f525fa8b2fc0e26185838377630ffd5ef48f"
+    },
+    {
+      "path": "assets/portraits/kate-crawford.jpg",
+      "bytes": 18330,
+      "sha256": "41cb1468fe34ec437fe8a1ff38f8657e24cb9d6398f071d4f0cdee29b080599d"
+    },
+    {
+      "path": "assets/portraits/kate-devlin.jpg",
+      "bytes": 25956,
+      "sha256": "572846bbf3ce43a22111b248052cb9d55af3a15238644d0e2571ef5315b324d2"
+    },
+    {
+      "path": "assets/portraits/ken-goldberg.jpg",
+      "bytes": 36673,
+      "sha256": "cbed350b125c1fcf81000189885017c1a348517f8acc4d846fc43eaf302e9df1"
+    },
+    {
+      "path": "assets/portraits/kyunghyun-cho.jpg",
+      "bytes": 32397,
+      "sha256": "f925e5c1b0c3ba15fcbad5acde51462c28f9faf380d123402da71bc1fe13da8c"
+    },
+    {
+      "path": "assets/portraits/larry-ellison.png",
+      "bytes": 223403,
+      "sha256": "05871581fc67c1c70bab41b21c57b786f5fc6e26f96dcb01e0f963fbb81cb938"
+    },
+    {
+      "path": "assets/portraits/lip-bu-tan.jpg",
+      "bytes": 39214,
+      "sha256": "ee26f00222ba105fc5dabe93f3840e5f3cb13443e68f23d2df8d025be1efbbbd"
+    },
+    {
+      "path": "assets/portraits/lisa-su.jpg",
+      "bytes": 31430,
+      "sha256": "a5cd7a14747565b5613bc54439148590785eada9bcb7ee83148a5dd82410daa4"
+    },
+    {
+      "path": "assets/portraits/llion-jones.jpg",
+      "bytes": 35411,
+      "sha256": "e3311da1a78fcfc2421605e21faa507b6178aaed0936fca825b8eed320e2f67d"
+    },
+    {
+      "path": "assets/portraits/luciano-floridi.jpg",
+      "bytes": 22769,
+      "sha256": "637f91b88a3ab07d0b47b4785d39f7f57c51e6852b37d4fe609c572fb6b33c82"
+    },
+    {
+      "path": "assets/portraits/marc-raibert.jpg",
+      "bytes": 33353,
+      "sha256": "c51765f08921ab4ac881152ce5b092f7aed72d186d576e872b4a088f28e91026"
+    },
+    {
+      "path": "assets/portraits/marietje-schaake.jpg",
+      "bytes": 44664,
+      "sha256": "149d081d301f8d36ea7e542970a2a0d83166a6bc44d50f97a5bca63279c25e95"
+    },
+    {
+      "path": "assets/portraits/mark-coeckelbergh.jpg",
+      "bytes": 21660,
+      "sha256": "f9ee8d140ccad97214ec50dbe5b6bfb62a393a6a2be3bb9817e79b9cfca0603a"
+    },
+    {
+      "path": "assets/portraits/mark-zuckerberg.jpg",
+      "bytes": 34156,
+      "sha256": "3ec87005319b3a7dfb10fc454b44901a12cb46e66823b1937349299575ac9d2a"
+    },
+    {
+      "path": "assets/portraits/mary-l-gray.jpg",
+      "bytes": 48788,
+      "sha256": "478d3bb7baf0fa518d4973564e1d7a012effdd19f5e3deae5ae42768b16b7ca8"
+    },
+    {
+      "path": "assets/portraits/masayoshi-son.jpg",
+      "bytes": 25099,
+      "sha256": "77da11d802f7b8245a686ef8552f09828d2ba9930a654bc095c106a078179b6a"
+    },
+    {
+      "path": "assets/portraits/mati-staniszewski.jpg",
+      "bytes": 28347,
+      "sha256": "70e71d1926a2694871c1006e056551552b1e5c98190e566bcf6b59edc7e67b30"
+    },
+    {
+      "path": "assets/portraits/max-tegmark.jpg",
+      "bytes": 46476,
+      "sha256": "606f3a2da0e5cf36a7ae911d9524a2aeffacc2b9fc19448480923147a7fd4d06"
+    },
+    {
+      "path": "assets/portraits/melanie-mitchell.jpg",
+      "bytes": 30551,
+      "sha256": "9b0dc29f6655ec3d14c6562e0f2655ee89399c8ded3fcb6cff72b5376fad611c"
+    },
+    {
+      "path": "assets/portraits/meredith-broussard.jpg",
+      "bytes": 25176,
+      "sha256": "24fe1f6ebedc0ab924200248d69fd6d39ca4f9206769a5b44398b38cc4bff7d4"
+    },
+    {
+      "path": "assets/portraits/meredith-whittaker.jpg",
+      "bytes": 29837,
+      "sha256": "81e5f7152652b1435eedfd817dda3d5f30a8206178b2f6cf1f84b8f4e83422c2"
+    },
+    {
+      "path": "assets/portraits/michael-bronstein.jpg",
+      "bytes": 25490,
+      "sha256": "c96b6053126a6d8336467027eafe95d1d00df761654996ffb5f4828851976fdc"
+    },
+    {
+      "path": "assets/portraits/michael-dell.jpg",
+      "bytes": 60866,
+      "sha256": "48314cb32d672e82b46fae2c6477644f11a1d939678549271264b392470c5a1c"
+    },
+    {
+      "path": "assets/portraits/mihaela-van-der-schaar.jpg",
+      "bytes": 29539,
+      "sha256": "4a087da1b6bdf85cd6151f3b68b77f54e8086ba9e0327f45d01e6a3011ba5c91"
+    },
+    {
+      "path": "assets/portraits/mike-krieger.jpg",
+      "bytes": 30862,
+      "sha256": "500925e287c98565bfa08c5a2db4628df14487374a8200a6eac5276aa90eba42"
+    },
+    {
+      "path": "assets/portraits/miles-brundage.jpg",
+      "bytes": 15077,
+      "sha256": "58e6a9a6646b3cf21b6c6e605e893f10482d258ffae594b7ab03fc3d7abe1aa6"
+    },
+    {
+      "path": "assets/portraits/milind-tambe.jpg",
+      "bytes": 27972,
+      "sha256": "a9f817458d5d7dde64b213789cdf7ec1c06ec61587ed1782ca8d6575aae657e2"
+    },
+    {
+      "path": "assets/portraits/mira-murati.jpg",
+      "bytes": 58033,
+      "sha256": "1a033eaac7a4128034445b99473dc0136f3f31d374c06cc24051b74220b5ea32"
+    },
+    {
+      "path": "assets/portraits/mustafa-suleyman.jpg",
+      "bytes": 28585,
+      "sha256": "26d2fdee4f4cc346336715c3cab6547787828a8e573d9129f8d55ef276620523"
+    },
+    {
+      "path": "assets/portraits/mutale-nkonde.jpg",
+      "bytes": 22892,
+      "sha256": "74e88ceccfe588f1e8d3b9718ac3fa980f606962f106c8fd36df63683deea800"
+    },
+    {
+      "path": "assets/portraits/nanjala-nyabola.jpg",
+      "bytes": 45183,
+      "sha256": "eb4c5875125f03ee664efb993ca8b4538dbe07d09a350ef86ae744980ce3b7a8"
+    },
+    {
+      "path": "assets/portraits/nanjira-sambuli.jpg",
+      "bytes": 28596,
+      "sha256": "9f3c6e16dd7a5ec37adb700e55a3aeefa8555eb0949e0326e086f53293a6e0f1"
+    },
+    {
+      "path": "assets/portraits/nat-friedman.jpg",
+      "bytes": 22986,
+      "sha256": "4fed65b0541d604469208fd0a60de0014c00d1edc20490226beb9b3a0da21529"
+    },
+    {
+      "path": "assets/portraits/nicholas-carlini.jpg",
+      "bytes": 14987,
+      "sha256": "8d97c2473b5e550416fe192476d65892fc44917bab0b11b3bf018b13af42f800"
+    },
+    {
+      "path": "assets/portraits/nick-bostrom.jpg",
+      "bytes": 22553,
+      "sha256": "79a460572a5f131d93848d8ef6bbf7abdbe1a1fd8799c160b483b2ab2d6e62c2"
+    },
+    {
+      "path": "assets/portraits/nick-frosst.jpg",
+      "bytes": 44882,
+      "sha256": "d4d13ee871132c9696c4fdcbd610fd1a14cb2e92fe4ea8eaa0a7064849167dcc"
+    },
+    {
+      "path": "assets/portraits/nigel-shadbolt.jpg",
+      "bytes": 22151,
+      "sha256": "c62c5437e812324a1ef9be2874fe5a0c58d96e3bc9a52cbc0d933065fec385b8"
+    },
+    {
+      "path": "assets/portraits/nuria-oliver.jpg",
+      "bytes": 12720,
+      "sha256": "7b866261b0d863bd5c7834d131d27e8b1265664ead55965f44d72c539fe87831"
+    },
+    {
+      "path": "assets/portraits/oussama-khatib.jpg",
+      "bytes": 39700,
+      "sha256": "6207991a8ebaa34ca7f7a01bcc447ff7457ff6fe507443ca1530acf71069a3cf"
+    },
+    {
+      "path": "assets/portraits/pascale-fung.png",
+      "bytes": 132917,
+      "sha256": "ffe9aee24e0afa3f114caa7873bd7f9c5b75a33a332ea7fcdafbc5fa6a786d0a"
+    },
+    {
+      "path": "assets/portraits/paul-christiano.jpg",
+      "bytes": 15825,
+      "sha256": "583b9b8583676ab86b3d1b8a753e4dc49f7c04836e5fd37c23a332b8baab71af"
+    },
+    {
+      "path": "assets/portraits/peggy-johnson.jpg",
+      "bytes": 33907,
+      "sha256": "468ab7b27dc7c2f9123782b499388575081a3fedf8442a93e8b7c5e19f02b614"
+    },
+    {
+      "path": "assets/portraits/pierre-yves-oudeyer.png",
+      "bytes": 127280,
+      "sha256": "67f796f944f92f65d85f615cfc8d0d95ef1fb3a10cb81b917e6d482b58956a0e"
+    },
+    {
+      "path": "assets/portraits/pieter-abbeel.jpg",
+      "bytes": 17827,
+      "sha256": "2174c6ee6950fd99fa8eebffbd4ba2caea1b80bfbe982b11d9ff9a8cadb25b43"
+    },
+    {
+      "path": "assets/portraits/pony-ma.jpg",
+      "bytes": 29428,
+      "sha256": "42a0eb4611bee490f383c665f4290b508a36224a89dfc0a2114df04fa730808d"
+    },
+    {
+      "path": "assets/portraits/qiang-yang.jpg",
+      "bytes": 29179,
+      "sha256": "ebd9f3aee59c36cd0a3c8e17030e588f69a50a58e38bf1d3768356f1b800a911"
+    },
+    {
+      "path": "assets/portraits/rediet-abebe.png",
+      "bytes": 223474,
+      "sha256": "5a1d5bc5ec1b2cad57d15439392b9a03c0ab3049df8e323dce24cf38d408619b"
+    },
+    {
+      "path": "assets/portraits/ren-zhengfei.jpg",
+      "bytes": 38074,
+      "sha256": "80fe8a8bd651c4b9e18d8017077e2fcb1a8dc4b39666a9e853bb22f97ae0a1b8"
+    },
+    {
+      "path": "assets/portraits/rene-haas.jpg",
+      "bytes": 34574,
+      "sha256": "b660b62bdfb368e71fcdc16c752f2c528714766afaf3445f88ba8c2111eb61ab"
+    },
+    {
+      "path": "assets/portraits/rina-dechter.jpg",
+      "bytes": 21406,
+      "sha256": "514995908ad0e6f8503f5ad2f5c97a236d1c38ed715c8814ef74a62c2221a8f4"
+    },
+    {
+      "path": "assets/portraits/robin-li.png",
+      "bytes": 154576,
+      "sha256": "db572452b453c693101d47383ecb201c03792915f94a37135fd803ddd89f26c0"
+    },
+    {
+      "path": "assets/portraits/ruha-benjamin.jpg",
+      "bytes": 17958,
+      "sha256": "d3b07128f3b3e2c0f364149ae9412032899f6a46b95f7ec80a458c64e391fb4c"
+    },
+    {
+      "path": "assets/portraits/rumman-chowdhury.jpg",
+      "bytes": 17126,
+      "sha256": "60155fd32dc3048df12dadea82330ee81381221576f268aec02f99bbb7dcd814"
+    },
+    {
+      "path": "assets/portraits/ruslan-salakhutdinov.jpg",
+      "bytes": 33542,
+      "sha256": "c99947a4d90f7a385cffdce4ff5ae02fb66ead55a341aa88aec720c3969b9bea"
+    },
+    {
+      "path": "assets/portraits/russ-altman.jpg",
+      "bytes": 56842,
+      "sha256": "d5116797024cd27f9a069a67e9d45ec8e1fde63f21dd65f39fcdb773a03eac24"
+    },
+    {
+      "path": "assets/portraits/sam-altman.jpg",
+      "bytes": 35169,
+      "sha256": "68daf394a1cc9a49396573433bbefbc1ba31afc5f610bae51ba9e79ed31487b1"
+    },
+    {
+      "path": "assets/portraits/sandra-wachter.jpg",
+      "bytes": 20895,
+      "sha256": "ebbbe72413e2fe437e21110bac54bd92d881f72c830844cf0058156d04bddae5"
+    },
+    {
+      "path": "assets/portraits/sanjay-mehrotra.jpg",
+      "bytes": 40830,
+      "sha256": "eaae3cc89ad4bb997ebe5a7b4754a32ca984e6bbaf776f2ff98654b51cab3e33"
+    },
+    {
+      "path": "assets/portraits/sarah-t-roberts.jpg",
+      "bytes": 16354,
+      "sha256": "59fbabf05a10c4806dada0d4ca9cecf3d5a4a76c73d3daac76f34846d45781a9"
+    },
+    {
+      "path": "assets/portraits/sarit-kraus.jpg",
+      "bytes": 26880,
+      "sha256": "0c305eb91e1185985e9700a8150ec0b88d7211c4be95ff08dee41bed7546b1f3"
+    },
+    {
+      "path": "assets/portraits/sasha-luccioni.jpg",
+      "bytes": 32104,
+      "sha256": "eaa1034fda9b34e7753a2d7032b096ab72a69da80dd68ccbdc048fdb94cc6cca"
+    },
+    {
+      "path": "assets/portraits/satya-nadella.jpg",
+      "bytes": 33497,
+      "sha256": "595a22ce2e09fdf646357a6ecdd62da0826fba9661120574ac2681872c9da6a2"
+    },
+    {
+      "path": "assets/portraits/scott-guthrie.jpg",
+      "bytes": 36527,
+      "sha256": "54f73cfe56ee79fe9be117ebba5c3a0fe1c792d2b55ec8be0f937127fd097cbd"
+    },
+    {
+      "path": "assets/portraits/scott-wu.jpg",
+      "bytes": 31152,
+      "sha256": "8c3189abbbd34eec57a363d9825a7891189cf21621ca70526fb0d7c87a02704d"
+    },
+    {
+      "path": "assets/portraits/sebastien-bubeck.jpg",
+      "bytes": 37394,
+      "sha256": "057d682d6ab515605297b521e0ad893df87995239782b461cd83beebff385e14"
+    },
+    {
+      "path": "assets/portraits/sepp-hochreiter.jpg",
+      "bytes": 17367,
+      "sha256": "8f168c25454c14833acae673e1729bfcbd480fd2a3f2db013ae2fbc06df5c371"
+    },
+    {
+      "path": "assets/portraits/suchi-saria.jpg",
+      "bytes": 37881,
+      "sha256": "99d252838c9fba06add9e9bb9065c7198f383a2cf3247be303c14c324d0f483e"
+    },
+    {
+      "path": "assets/portraits/sundar-pichai.jpg",
+      "bytes": 46717,
+      "sha256": "ee6b5ffd90edaa51ffd1fdb5af60c08c4b6c8e731561333e6e0bd1bc614dbd33"
+    },
+    {
+      "path": "assets/portraits/takeo-kanade.jpg",
+      "bytes": 30600,
+      "sha256": "65ad7472e8c4924ac9dd42c2d72200e9682572f56cbcf7201217850f4991f8e3"
+    },
+    {
+      "path": "assets/portraits/tekedra-mawakana.jpg",
+      "bytes": 28795,
+      "sha256": "c81ece5db47cfdc8a92e2aeb51b63bfd89c06c14b5e6bfaf2834566b8aefd318"
+    },
+    {
+      "path": "assets/portraits/thomas-kurian.jpg",
+      "bytes": 40023,
+      "sha256": "5878f6e9381bc931a9312516ca94d9c37d04a370cceb78c87a0c340367d063ba"
+    },
+    {
+      "path": "assets/portraits/timnit-gebru.jpg",
+      "bytes": 57632,
+      "sha256": "e4218ab2f99b503252fa8cba1f2bc0cb4b1c6974e028caebcfa6719d5964bc4c"
+    },
+    {
+      "path": "assets/portraits/toby-walsh.jpg",
+      "bytes": 63836,
+      "sha256": "5874b294ea5ed12f3f23b738e1042915a642cd2f88f1c5bda4d450b954a01937"
+    },
+    {
+      "path": "assets/portraits/tshilidzi-marwala.jpg",
+      "bytes": 35516,
+      "sha256": "ac785bdbcb9214721f1322ed5c0fe00f4c7d4d0a39553469b845aa782e509cde"
+    },
+    {
+      "path": "assets/portraits/tuomas-sandholm.jpg",
+      "bytes": 35901,
+      "sha256": "ec0ba78f99944a1bf639ef5160073badf90c125c271f3d975b401b9df3a760df"
+    },
+    {
+      "path": "assets/portraits/ulrike-von-luxburg.jpg",
+      "bytes": 8895,
+      "sha256": "9bbf6072d4e40ec3860959c83716d882234698150afc9018393414125678e3ce"
+    },
+    {
+      "path": "assets/portraits/vipul-ved-prakash.jpg",
+      "bytes": 10018,
+      "sha256": "c414e03b45f3b42c79616e5530c4b57bc2cfafc2486c2162dd9f2e2cba5d8b32"
+    },
+    {
+      "path": "assets/portraits/virginia-dignum.jpg",
+      "bytes": 31923,
+      "sha256": "416adfef9a099938e084b66f1febbc645fc0b002470558ad2081b8b8cd344672"
+    },
+    {
+      "path": "assets/portraits/virginia-eubanks.jpg",
+      "bytes": 18668,
+      "sha256": "22cd28aca5bb14e571f00b0e743796e1f35608574af4d7ca249d48c9e6a6c306"
+    },
+    {
+      "path": "assets/portraits/vukosi-marivate.jpg",
+      "bytes": 27470,
+      "sha256": "89bade17cace89152f96c497d2f5b3b03bbfcb2902faa765cc79d7d79dead305"
+    },
+    {
+      "path": "assets/portraits/wang-xingxing.png",
+      "bytes": 137201,
+      "sha256": "2368087ef10ee8d44962f826510f92cb31ea2295f687c4486377544376653c8a"
+    },
+    {
+      "path": "assets/portraits/wendy-hall.jpg",
+      "bytes": 51223,
+      "sha256": "bdca09a4cfdbdfeced8fc6b9661c726d9807502790e4862f989f7ee0ddd3fd60"
+    },
+    {
+      "path": "assets/portraits/wolfram-burgard.jpg",
+      "bytes": 21978,
+      "sha256": "10e2bba85306718e7a576440be057569c568d8b8d9fb5fa470d0d50ae18bcd70"
+    },
+    {
+      "path": "assets/portraits/yann-lecun.jpg",
+      "bytes": 36313,
+      "sha256": "bfa2e5b828cbb1674ecde6238c7e43b6e3cf70ca1f3491c8ca5105919c53f539"
+    },
+    {
+      "path": "assets/portraits/yoshua-bengio.jpg",
+      "bytes": 31519,
+      "sha256": "ab94146bd09e73525a1ce39cc9a02b61712e703ed95315fcee553ff639725af8"
+    },
+    {
+      "path": "assets/portraits/yutaka-matsuo.jpg",
+      "bytes": 38941,
+      "sha256": "079a5c808873eb5d64f2edf5b4976ab119c30d41a47a066f7db44e7a4de203cc"
+    },
+    {
+      "path": "assets/portraits/zico-kolter.jpg",
+      "bytes": 24754,
+      "sha256": "5be69a9c62f7956f290a11537d53ac2371d5e261fc13a008638942f7568399f7"
+    },
+    {
+      "path": "data/edition.json",
+      "bytes": 1346,
+      "sha256": "5d0d27d03e466409dc66191033dd47378ee779e9590549551eb9974b32a308e2"
+    },
+    {
+      "path": "data/people.json",
+      "bytes": 927411,
+      "sha256": "b4c9e2f2386a00af4c6070ac0109b347c43fb795ea1fc77b20df03080d95e96e"
+    },
+    {
+      "path": "data/portraits.json",
+      "bytes": 307202,
+      "sha256": "19ec962477bffcfeaf36b7f684c153a35535db28be06448100efbccb8f9e8cf1"
+    },
+    {
+      "path": "internal/README.template.md",
+      "bytes": 135,
+      "sha256": "092add26c0112b6faacbb9de5355d9d7e75eb10dff513c1626787938c36f0326"
+    },
+    {
+      "path": "internal/build-public.ts",
+      "bytes": 11058,
+      "sha256": "f3f20faea0851959296073bcac86de4290263b9fc2800f621853269e5670f18d"
+    },
+    {
+      "path": "internal/catalog.test.ts",
+      "bytes": 6629,
+      "sha256": "96d1b4a828b9a39d4e259e54b9b5e212244e957c2633beb55189658631306b9a"
+    },
+    {
+      "path": "internal/catalog.ts",
+      "bytes": 9710,
+      "sha256": "dc25c964ae6c80968be77f70f32edbd68fa1904e938b1149c75975c46413b224"
+    },
+    {
+      "path": "internal/check-portraits.ts",
+      "bytes": 816,
+      "sha256": "7288aefc97b806178770765e4d64836e83671ebe0e9917fc9e73c791ad07f852"
+    },
+    {
+      "path": "internal/explorer-client.js",
+      "bytes": 52053,
+      "sha256": "a26a59d63733a8f621a742ba482688187f7c1eeb712cf846f99a71506cf3515a"
+    },
+    {
+      "path": "internal/explorer-data.test.ts",
+      "bytes": 1556,
+      "sha256": "722651984a4206b084ccd3bb1154a5bb5b54125625dded00eae135e49095670b"
+    },
+    {
+      "path": "internal/explorer-data.ts",
+      "bytes": 1346,
+      "sha256": "94879efc8d59d034fc1bb790ef73f134cee00626f2f2ed9c7d8fba70c91a5cd3"
+    },
+    {
+      "path": "internal/explorer.browser-checks.mjs",
+      "bytes": 22096,
+      "sha256": "3be8e5a13a7ebd52c7b4fbf1ac9f7cc79632b97e00bac016b402fe7359d71dc5"
+    },
+    {
+      "path": "internal/explorer.css",
+      "bytes": 17747,
+      "sha256": "a39fd4f995eacb7f371493bbe88309dbc5b74d3ff940811f47d6a09a2dd00d3d"
+    },
+    {
+      "path": "internal/explorer.ts",
+      "bytes": 5750,
+      "sha256": "bcb76b2d58e4e417c65e918ab1a10d414fccc701ff242b9fc9452d104124a7d4"
+    },
+    {
+      "path": "internal/generate-readme.ts",
+      "bytes": 4712,
+      "sha256": "1f5992db566b1926679feed575456815a498130e5a58725515416e725ff62ac6"
+    },
+    {
+      "path": "internal/motion-math.mjs",
+      "bytes": 3444,
+      "sha256": "790fd1e1d5c483b7aaa9a055bc64bbc2a4a8cb7d59c0deb1d2430fa5d12c6ca3"
+    },
+    {
+      "path": "internal/motion-math.test.mjs",
+      "bytes": 6746,
+      "sha256": "dd99e7c96320c172a1966f049f521233df47854e99f39c0c68cba6538d0100d3"
+    },
+    {
+      "path": "internal/portraits.browser-checks.mjs",
+      "bytes": 9380,
+      "sha256": "18a7bfc7ecbb9090d0d0e0e5b37b569070843658fc9086e47db03b76a3c69bfe"
+    },
+    {
+      "path": "internal/portraits.test.ts",
+      "bytes": 2891,
+      "sha256": "0bc3d0fd7c5142992d7cf563d727c0dee81fb6d3a7bacb8f943bb0abddef2a1b"
+    },
+    {
+      "path": "internal/portraits.ts",
+      "bytes": 4757,
+      "sha256": "7aea460486fdd86d6a3ce3b4779523ddfbbb45cefe3dc0151f863d313e8ad023"
+    },
+    {
+      "path": "internal/preview-public.ts",
+      "bytes": 2204,
+      "sha256": "808704b830ef6d3df421bbdaa4c94017ebfb04200d56ab1129a3c149503b1735"
+    },
+    {
+      "path": "internal/public-render.ts",
+      "bytes": 13995,
+      "sha256": "232ce346587707d22a8358449bddfd0fe3c0a6e008b2163f2efbf9d5be0fc404"
+    },
+    {
+      "path": "internal/public.test.ts",
+      "bytes": 8069,
+      "sha256": "f3ddb32b4608335c6edf16c1b84780daa7893eec075c91e5a258816c29a20781"
+    },
+    {
+      "path": "internal/security.ts",
+      "bytes": 633,
+      "sha256": "ad1d0abcca20a913cc7a34e6058f224f9d6a4e1a415e92e271532265fcfcaf5e"
+    },
+    {
+      "path": "internal/tsconfig.json",
+      "bytes": 456,
+      "sha256": "635b994abea3f1a07ba90ba6810f044e724e51ea1610c8320e0c9820dc898838"
+    },
+    {
+      "path": "package.json",
+      "bytes": 794,
+      "sha256": "7ab9e83433dd38ffb5fab8d74679c89dda87453a4ec0946ee619d6df07ae076e"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "bytes": 10121,
+      "sha256": "7ce2c807f06c50133d7e79466ac8b1ac27ccddaa169f087f2e9c81d355c6b113"
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 1333,
+      "sha256": "315e2023da9c203a7f0818aa870f9b0f65d4ccf8729224f551fc64e7d0f643fb"
+    }
+  ]
+}
