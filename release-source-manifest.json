@@ -1001,13 +1001,18 @@
     },
     {
       "path": "package.json",
-      "bytes": 794,
-      "sha256": "7ab9e83433dd38ffb5fab8d74679c89dda87453a4ec0946ee619d6df07ae076e"
+      "bytes": 785,
+      "sha256": "7bb86688efe2d5c157270a046bcf766c8a91182e08dcfce91f2268dc4287bc62"
     },
     {
       "path": "pnpm-lock.yaml",
       "bytes": 10121,
       "sha256": "7ce2c807f06c50133d7e79466ac8b1ac27ccddaa169f087f2e9c81d355c6b113"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 178,
+      "sha256": "a0d8edd380f802cbabd25cb184bd9e854dcf5db8375e8482e9e68226562d8796"
     },
     {
       "path": "vercel.json",

@@ -5,7 +5,7 @@
   "scripts": {
     "build": "node --import tsx internal/build-public.ts",
     "preview": "node --import tsx internal/preview-public.ts",
-    "typecheck": "tsc -p internal/tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json",
     "test": "node --import tsx --test internal/catalog.test.ts internal/explorer-data.test.ts internal/motion-math.test.mjs internal/portraits.test.ts internal/public.test.ts",
     "check:portraits": "node --import tsx internal/check-portraits.ts",
     "verify": "pnpm typecheck && pnpm test && pnpm check:portraits && pnpm build"
