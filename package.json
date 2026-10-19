@@ -6,9 +6,10 @@
     "build": "node --import tsx internal/build-public.ts",
     "preview": "node --import tsx internal/preview-public.ts",
     "typecheck": "tsc -p tsconfig.json",
-    "test": "node --import tsx --test internal/catalog.test.ts internal/explorer-data.test.ts internal/motion-math.test.mjs internal/portraits.test.ts internal/public.test.ts",
+    "test": "node --import tsx --test internal/catalog.test.ts internal/explorer-data.test.ts internal/motion-math.test.mjs internal/portraits.test.ts internal/public.test.ts internal/check-source-manifest.test.mjs",
     "check:portraits": "node --import tsx internal/check-portraits.ts",
-    "verify": "pnpm typecheck && pnpm test && pnpm check:portraits && pnpm build"
+    "verify": "pnpm check:source && pnpm typecheck && pnpm test && pnpm check:portraits && pnpm build",
+    "check:source": "node internal/check-source-manifest.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",

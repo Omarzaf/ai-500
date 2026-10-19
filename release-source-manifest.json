@@ -11,13 +11,13 @@
     },
     {
       "path": ".github/dependabot.yml",
-      "bytes": 194,
-      "sha256": "90abb8b57322591e1319fc7c7cb91faf82160c5b57b12347542cb29658b6d605"
+      "bytes": 838,
+      "sha256": "35c25e75bfe223852935939681e3800c70dfd03bee44f78fb928a1cfdb8f73c1"
     },
     {
       "path": ".github/workflows/verify.yml",
-      "bytes": 706,
-      "sha256": "9084ca2d6fea5e9fc016d12e51cb682c0483d4cc194ba203545e50ce4b51395a"
+      "bytes": 865,
+      "sha256": "17bce95a19a302b25f8fe6e404af17dca1c6c0ea2a13b633ee5e236144067493"
     },
     {
       "path": ".gitignore",
@@ -31,13 +31,13 @@
     },
     {
       "path": ".vercelignore",
-      "bytes": 73,
-      "sha256": "a2d0a9aeac12b9194868462af3784d0774330147fa77e4ab9f95d11af11a4578"
+      "bytes": 65,
+      "sha256": "e3a0944479d78c6b3b46502983bbe0cdb8cdeece650b02c1ea7c97f2dc372fe3"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 1097,
-      "sha256": "658572ebd8e0b3d071943dc3711288e1e6f8136a702b10291ac290b9a5174320"
+      "bytes": 1896,
+      "sha256": "ae719de693c22f104276398a840164b294c978ff1da5277d160f3783e64610f8"
     },
     {
       "path": "METHODOLOGY.md",
@@ -915,6 +915,16 @@
       "sha256": "7288aefc97b806178770765e4d64836e83671ebe0e9917fc9e73c791ad07f852"
     },
     {
+      "path": "internal/check-source-manifest.mjs",
+      "bytes": 3373,
+      "sha256": "967fcf5848c323be55531268dd71fdd1910ec8d5a34ebdd68370b3336e30a658"
+    },
+    {
+      "path": "internal/check-source-manifest.test.mjs",
+      "bytes": 2884,
+      "sha256": "7f5f8e5427e22aca7626dd1e5fe7f9a3f0859f20495cfa05f0f4428832e9a972"
+    },
+    {
       "path": "internal/explorer-client.js",
       "bytes": 52009,
       "sha256": "4baf0702c3ec1dd31308defdd4d0523c1240bd9bd6e8566ef3f61b6e61758796"
@@ -1001,8 +1011,8 @@
     },
     {
       "path": "package.json",
-      "bytes": 785,
-      "sha256": "7bb86688efe2d5c157270a046bcf766c8a91182e08dcfce91f2268dc4287bc62"
+      "bytes": 909,
+      "sha256": "ab2fc91067dca2c8f2ac3d8b7fdb6e193a2d057b8e52f52181d41d33bd729830"
     },
     {
       "path": "pnpm-lock.yaml",

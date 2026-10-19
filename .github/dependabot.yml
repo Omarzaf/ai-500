@@ -4,7 +4,28 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    groups:
+      development-tooling:
+        applies-to: version-updates
+        dependency-type: development
+        patterns:
+          - "*"
+        update-types:
+          - minor
+          - patch
+    # Runtime and compiler major upgrades require an intentional migration.
+    # SemVer update-type ignores do not suppress security updates.
+    ignore:
+      - dependency-name: "@types/node"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
   - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: monthly
+    groups:
+      ci-actions:
+        applies-to: version-updates
+        patterns:
+          - "*"
