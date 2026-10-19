@@ -61,7 +61,7 @@ export function checkSourceManifest(root, { checkTracked = true } = {}) {
       bytes.length !== entry.bytes ||
       createHash("sha256").update(bytes).digest("hex") !== entry.sha256
     )
-      throw new Error(`Source integrity mismatch: ${path}`);
+      throw new Error(`Source integrity mismatch: ${path} (expected ${entry.bytes} bytes/${entry.sha256}; received ${bytes.length} bytes/${createHash("sha256").update(bytes).digest("hex")})`);
   }
   let trackedCount = null;
   if (checkTracked && existsSync(join(base, ".git"))) {

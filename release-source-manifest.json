@@ -36,8 +36,8 @@
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 1896,
-      "sha256": "ae719de693c22f104276398a840164b294c978ff1da5277d160f3783e64610f8"
+      "bytes": 2075,
+      "sha256": "6b997b0ce84789e23c7cb7f8a4ecf0830bff87d70624dc31822635ac3c94e210"
     },
     {
       "path": "METHODOLOGY.md",
@@ -916,8 +916,8 @@
     },
     {
       "path": "internal/check-source-manifest.mjs",
-      "bytes": 3373,
-      "sha256": "967fcf5848c323be55531268dd71fdd1910ec8d5a34ebdd68370b3336e30a658"
+      "bytes": 3505,
+      "sha256": "17ba14a672e76a179268a0b4e220e5a7a13607d02f240a4134c50ba079c92c6f"
     },
     {
       "path": "internal/check-source-manifest.test.mjs",
@@ -1026,8 +1026,8 @@
     },
     {
       "path": "vercel.json",
-      "bytes": 1333,
-      "sha256": "315e2023da9c203a7f0818aa870f9b0f65d4ccf8729224f551fc64e7d0f643fb"
+      "bytes": 1089,
+      "sha256": "014baacd7bb6135d615958316106f2e93fa7b453b20dafce0ab26d5f70f877b0"
     }
   ]
 }
