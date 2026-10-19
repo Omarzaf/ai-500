@@ -16,7 +16,8 @@ import {
 } from "./generate-readme.ts";
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
-const edition = readEdition(root);
+// These synthetic fixtures deliberately model an edition awaiting review.
+const edition = { ...readEdition(root), humanReview: "pending" as const };
 const template = readFileSync(
   join(root, "internal/README.template.md"),
   "utf8"

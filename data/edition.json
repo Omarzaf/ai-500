@@ -3,7 +3,7 @@
   "subtitle": "People shaping artificial intelligence",
   "editionDate": "2026-10-19",
   "targetCount": 500,
-  "humanReview": "pending",
+  "humanReview": "complete",
   "categories": [
     { "id": "research", "title": "Research & discovery", "description": "People advancing the methods and scientific foundations of AI." },
     { "id": "industry", "title": "Labs & industry", "description": "People directing the development and deployment of AI systems." },

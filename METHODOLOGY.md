@@ -22,7 +22,7 @@ Recent activity is preferred. Older foundational contributions can support inclu
 
 Research spans regions and includes universities, companies, governments, nonprofits, and independent communities. Public documentation is uneven. English-language sources, prominent institutions, and well-funded organizations are easier to discover; this can bias selection. The directory makes no claim to statistically representative geographic or demographic coverage. It does not infer personal demographic attributes from names or photographs.
 
-All initial entries are AI-assisted research pending human editorial review. Structural checks can count identities, resolve references, and detect inconsistent dates. They cannot prove that a claim is true, that two publishers are independent, or that these are objectively the world's 500 most influential people.
+All entries combine AI-assisted research with completed human editorial review. Structural checks can count identities, resolve references, and detect inconsistent dates. They cannot prove that a claim is true, that two publishers are independent, or that these are objectively the world's 500 most influential people.
 
 ## Corrections
 

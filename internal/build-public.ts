@@ -262,7 +262,7 @@ export function buildPublic(root: string): PublicFile[] {
     "photo-credits.html",
     renderer.page(
       "Photo credits",
-      `<article class="profile"><a class="back" href="/">← Return to explorer</a><h1>Photo credits</h1><p>These ${rows.length} source-attributed portraits accompany an editorial directory of 500 people. A photograph does not imply endorsement. Photos retain their individual rights and license terms. These image licenses do not grant rights to other site content.</p><p>Images are displayed with CSS framing and, for some portraits, scaling. The downloaded image bytes are unchanged. Copyright permissions do not waive personality, privacy, trademark, or other rights that may apply. Portrait identity and composition were reviewed with AI assistance; human editorial review remains pending.</p><ol class="sources">${rows.join("")}</ol></article>`
+      `<article class="profile"><a class="back" href="/">← Return to explorer</a><h1>Photo credits</h1><p>These ${rows.length} source-attributed portraits accompany an editorial directory of 500 people. A photograph does not imply endorsement. Photos retain their individual rights and license terms. These image licenses do not grant rights to other site content.</p><p>Images are displayed with CSS framing and, for some portraits, scaling. The downloaded image bytes are unchanged. Copyright permissions do not waive personality, privacy, trademark, or other rights that may apply. Portrait identity and composition were reviewed with AI assistance.</p><ol class="sources">${rows.join("")}</ol></article>`
     ),
     html,
     ["/photo-credits", "/photo-credits.html"]
