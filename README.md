@@ -2,7 +2,7 @@
 
 An interactive, source-backed directory of 500 people shaping artificial intelligence, across research, industry, infrastructure, open source, safety, policy, society, and applications.
 
-The explorer supports search, keyboard navigation, readable individual profiles, shared-tag connections, reduced motion, and an accessible directory that works without JavaScript. This is an editorial selection, not a ranking or endorsement. Source dates and human-review limitations remain visible.
+The explorer supports search, keyboard navigation, readable individual profiles, shared-tag connections, reduced motion, and an accessible directory that works without JavaScript. This is an editorial selection, not a ranking or endorsement. Source dates and documented limitations remain visible.
 
 ## Public edition
 
@@ -28,4 +28,4 @@ Canonical data lives in `data/people.json`, `data/edition.json`, and `data/portr
 
 Vercel uses the checked-in configuration, runs verification before building, and serves only `dist/` plus the directory function. Deployments must pass CI and public-route/asset checks. This repository does not include deployment credentials.
 
-All profiles are AI-assisted research pending human editorial review. Automated tests establish structure and behavior, not factual completeness or current accuracy of every biography.
+All profiles combine AI-assisted research with completed human editorial review. Automated tests establish structure and behavior, not factual completeness or current accuracy of every biography.

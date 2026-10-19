@@ -60,7 +60,7 @@
         "note": "Original paper develops estimation through gradients of log densities without normalization constants."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -113,7 +113,7 @@
         "note": "Book site identifies the three authors, educational purpose, free online availability and substantive chapter coverage."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -176,7 +176,7 @@
         "note": "Research funder describes her dataset investigations and ongoing accountability work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -229,7 +229,7 @@
         "note": "Investor’s first-hand account names Parasnis and describes Typeface’s integration of generative AI into branded content workflows."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -282,7 +282,7 @@
         "note": "Co-authored paper learns visual representations by predicting the relative positions of image patches."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -335,7 +335,7 @@
         "note": "Co-authored study demonstrates adversarial policies in simulated multi-agent environments."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -389,7 +389,7 @@
         "note": "Independent editorial profile; original article date retained, unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -442,7 +442,7 @@
         "note": "Contributors identify Cotra as report lead; executive summary explains the pilot assessment."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The report is a bounded pilot assessment with explicit uncertainty; inclusion does not endorse its forecasts as established outcomes."
@@ -508,7 +508,7 @@
         "note": "2019 account documents the AI-guided laboratory approach and a machine built to manufacture and test thin-film materials."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -572,7 +572,7 @@
         "note": "GPT-2 announcement credits Radford and explains unsupervised multitask language modeling."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -625,7 +625,7 @@
         "note": "Interview discusses Runway's creative models and film-production applications; design-officer title is historical."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -688,7 +688,7 @@
         "note": "Original coauthored paper develops a robust-optimization approach to adversarial training."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The inspected CSAIL directory lists Temporary Visiting Professor; an older personal biography retains a named MIT chair and leave at OpenAI. The directory title is used here."
@@ -744,7 +744,7 @@
         "note": "Interview corroborates Hanna's authorship and explains the book's critique of AI hype."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -797,7 +797,7 @@
         "note": "Independent event reporting and transcript document Kendall’s AI-driver partnership; a planned trial is not treated as a completed deployment."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -850,7 +850,7 @@
         "note": "Co-authored paper describes sparse-grid representations for photorealistic view synthesis without neural-network components."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Luma CTO is a former role according to the current personal site. The current employer is not specified there and is not inferred from third-party listings."
@@ -906,7 +906,7 @@
         "note": "Original research paper identifies Zhavoronkov and reports GENTRL molecular design and experimental validation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -969,7 +969,7 @@
         "note": "Official remarks identify Wang as overall team lead."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1022,7 +1022,7 @@
         "note": "Original coauthored paper describes unpaired training, cycle consistency and visual translation tasks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1075,7 +1075,7 @@
         "note": "Independent profile corroborates leadership and describes the specific AI business or infrastructure contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1128,7 +1128,7 @@
         "note": "Author bibliography corroborates ProGen and subsequent protein and genome-editor research."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1181,7 +1181,7 @@
         "note": "Original coauthored study describes exam/textbook-based Korean QA data, category annotations and language-model evaluation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1255,7 +1255,7 @@
         "note": "Institutional page lists Professor Villavicencio and her multilingual and idiomatic-language research."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The Sheffield profile remains online; her current personal biography identifies Exeter as the professorship and Sheffield as an affiliation. Exeter's institutional listing corroborates the Exeter connection."
@@ -1311,7 +1311,7 @@
         "note": "Authorship and abstract document a cross-domain security-risk analysis and proposed mitigations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1364,7 +1364,7 @@
         "note": "Corroborates her leadership of the Blueprint and its nonbinding policy purpose."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Her White House work was a former role; she is listed here under her current academic appointment. The Blueprint is a policy framework, not a law."
@@ -1431,7 +1431,7 @@
         "note": "Names Soto as a co-creator and describes shelf scanning, stock checks and price-label verification."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1494,7 +1494,7 @@
         "note": "Sanger's technical article describes the team's specialized code-editing model and its deployment in Cursor."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Role is stated as co-founder; no additional executive title is inferred from external profiles."
@@ -1550,7 +1550,7 @@
         "note": "Reports her leadership in shaping Claude’s personality and behavior."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1603,7 +1603,7 @@
         "note": "Profile and interview explain his coordination of AI-governance cooperation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1656,7 +1656,7 @@
         "note": "Report credits Kak, Sarah Myers West and Kate Brennan and sets out an analysis of AI-industry concentration and a policy agenda."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1709,7 +1709,7 @@
         "note": "Independent reporting identifies Vora as Anthropic's chief product officer."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1762,7 +1762,7 @@
         "note": "Co-authored announcement describes TPU, GPU and CPU infrastructure for AI."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1816,7 +1816,7 @@
         "note": "September 2026 interview identifies Jain as CEO and discusses Luma’s progression from 3D content to image and video generation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1879,7 +1879,7 @@
         "note": "Independent founder interview."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -1932,7 +1932,7 @@
         "note": "Reporting describes his autonomous-driving leadership, robotics work and planned succession."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The July announcement says he will leave the CEO role after a successor is appointed and remain a director. This profile uses the continuing founder/director role rather than assuming the succession has completed."
@@ -1988,7 +1988,7 @@
         "note": "Interviews Germanidis about video generation and creative use; its CTO title is historical."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2051,7 +2051,7 @@
         "note": "Dragan is a coauthor of the framework for cooperative learning of initially unknown human rewards."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2115,7 +2115,7 @@
         "note": "Co-authored 2025 study uses prior learning experience to narrow AutoML search spaces for preprocessors and classifiers."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2169,7 +2169,7 @@
         "note": "Independent German report identifies Zayarni and explains Qdrant's vector-search infrastructure and open-source adoption."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2232,7 +2232,7 @@
         "note": "Investor account names Blattmann and explains the team's diffusion-model work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2296,7 +2296,7 @@
         "note": "Original co-authored paper derives regret bounds via information gain and experimental design."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2349,7 +2349,7 @@
         "note": "Independent profile describes his AI teaching and technical explanations; unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2401,7 +2401,7 @@
         "note": "NSF explains Barto and Sutton's learning-from-reward framework and later applications."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2454,7 +2454,7 @@
         "note": "Independent profile corroborates leadership and describes the specific AI business or infrastructure contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2508,7 +2508,7 @@
         "note": "Independent editorial profile; original article date retained, unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2561,7 +2561,7 @@
         "note": "Jassy’s letter describes investment in AI services, Trainium chips and cloud infrastructure."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2614,7 +2614,7 @@
         "note": "Award account explains fingerprint/face recognition contributions and deployment."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2668,7 +2668,7 @@
         "note": "Coauthored methodological paper formulates neural operators as learned mappings between function spaces."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2721,7 +2721,7 @@
         "note": "Partner biography corroborates Cadence leadership and applying AI to engineering."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2784,7 +2784,7 @@
         "note": "Repository separately credits Korhonen's cross-lingual paper and releases its models and benchmark; the earlier monolingual SapBERT paper has different authors."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2837,7 +2837,7 @@
         "note": "Korinek’s Senate statement develops scenario planning and shared-prosperity policy recommendations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2890,7 +2890,7 @@
         "note": "Independent reporting names Osika and describes natural-language software creation and platform use."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2943,7 +2943,7 @@
         "note": "Announcement identifies Neri as CEO and describes enterprise AI infrastructure portfolio."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -2996,7 +2996,7 @@
         "note": "Co-authored paper describes a large database of scene photographs, categories and attributes for visual recognition."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3060,7 +3060,7 @@
         "note": "June 2026 reporting corroborates the CEO role; IPO plans are not used as completed outcomes."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The institutional biography dates to an October 2025 event; June 2026 reporting corroborates continued CEO status."
@@ -3117,7 +3117,7 @@
         "note": "Goldman and Procaccia document the platform's algorithms, fairness guarantees and practical applications."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3180,7 +3180,7 @@
         "note": "Coauthored paper defines maximum mean discrepancy and develops tests for distribution differences."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3234,7 +3234,7 @@
         "note": "Independent editorial profile; original article date retained, unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3287,7 +3287,7 @@
         "note": "Independent profile corroborates leadership and describes the specific AI business or infrastructure contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3340,7 +3340,7 @@
         "note": "Interview examines the book's distinctions among AI applications and institutional effects."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3394,7 +3394,7 @@
         "note": "Co-authored textbook and research examples explain learned dynamical systems, motion adaptation and compliant control."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3458,7 +3458,7 @@
         "note": "Oliva and Torralba explain behavioral and computational evidence for global scene representations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3512,7 +3512,7 @@
         "note": "Confirms the cyber-ambassador role and work in citizen participation and AI governance."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3565,7 +3565,7 @@
         "note": "Co-authored position paper proposes milestones and evaluation tools for democratic AI."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3618,7 +3618,7 @@
         "note": "Publication describes Azhar’s recurring AI analysis and links concrete topics including scaling and work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3682,7 +3682,7 @@
         "note": "Original Ravindran and Barto paper formalizes abstractions that preserve decision-process structure."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3736,7 +3736,7 @@
         "note": "Research-excellence citation specifically recognizes her NLP research and theories and applications of multi-agent collaboration."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3799,7 +3799,7 @@
         "note": "Plank synthesizes approaches, releases a dataset repository and identifies implications for data, modeling and evaluation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3852,7 +3852,7 @@
         "note": "Names Garfinkel as a co-author and describes the report’s threat and mitigation analysis."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -3905,7 +3905,7 @@
         "note": "Read Stephen Council's republished interview about Mann's Labs leadership and Claude Code."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Primary oral-history interviews were recorded February–May 2026; the page has no exact publication date."
@@ -3962,7 +3962,7 @@
         "note": "Names Rosman as co-author and describes composing learned value functions to solve new tasks under specified conditions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4015,7 +4015,7 @@
         "note": "Award explains his expansion of support-vector methods through kernels."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4068,7 +4068,7 @@
         "note": "Interview summary discusses NEO development and human-compatible robot design."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4121,7 +4121,7 @@
         "note": "Reports METR founding, safety evaluations and contribution to responsible scaling policies."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Older sources call her Head of Research; the current METR team profile lists Founder and CEO."
@@ -4177,7 +4177,7 @@
         "note": "Confirms Aggarwal's venture and reports its cloud focus and paused chip plans; updated May 5."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Founder role is dated to the original announcement; 2026 reporting confirms the continuing venture and a shift toward AI cloud."
@@ -4234,7 +4234,7 @@
         "note": "Research feature explains game-theoretic patrol planning and its security and wildlife-protection applications."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4287,7 +4287,7 @@
         "note": "2022 citation recognizes robustness and privacy; UIUC role is historical."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The 2022 award's UIUC affiliation is historical; the current official UChicago profile establishes the listed role."
@@ -4354,7 +4354,7 @@
         "note": "Partner announcement names Van Luijt co-founder and CEO and describes the open-source database; classified as primary company material."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4407,7 +4407,7 @@
         "note": "Interview corroborates Cherny's role, product development and adoption."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Primary oral-history interviews were recorded February–May 2026; exact publication date is unstated."
@@ -4464,7 +4464,7 @@
         "note": "Independent editorial profile corroborates role and AI contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4517,7 +4517,7 @@
         "note": "Original co-authored paper proposes explanations based on changes that would produce a different decision."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4570,7 +4570,7 @@
         "note": "Independent profile discusses founding Figure and its BMW partnership; capability forecasts are not adopted."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4634,7 +4634,7 @@
         "note": "Co-authored paper designs shared evaluation and resource infrastructure for Indian-language OCR."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4687,7 +4687,7 @@
         "note": "Independent profile explains TSMC's manufacturing role; unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4740,7 +4740,7 @@
         "note": "Museum’s account of its conversation with Metz corroborates authorship and explains his reporting on AI researchers and institutions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4793,7 +4793,7 @@
         "note": "Book abstract describes its philosophical analysis of privacy, surveillance and rights."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4847,7 +4847,7 @@
         "note": "Book site identifies both authors and describes its unified theoretical and practical treatment of supervised learning."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4901,7 +4901,7 @@
         "note": "Fellowship profile corroborates her pioneering computational-sustainability work and integration of reasoning, learning and optimization."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -4954,7 +4954,7 @@
         "note": "Profile explains the book, ORCAA's founding and its accountability work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5017,7 +5017,7 @@
         "note": "Portfolio profile identifies Lee and explains competitions and talent matching."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5070,7 +5070,7 @@
         "note": "Names Liang as president and CEO and describes AI server, rack and cooling systems."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5134,7 +5134,7 @@
         "note": "Investor interview records Lochmiller's approach to siting, powering and operating AI data centers; treated as interested primary evidence."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5197,7 +5197,7 @@
         "note": "Biography describes meta-learning for fast acquisition of concepts and robot behaviors."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5250,7 +5250,7 @@
         "note": "Announcement signed by Cheng as chairman describes board consideration of restructuring and external financing for Kling AI; it is a proposal at that date, not proof of completion."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5303,7 +5303,7 @@
         "note": "Describes Meng and Guo's video-generation platform and emphasis on usability."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5356,7 +5356,7 @@
         "note": "Corroborates contributions to the international safety report and African Union strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Her current biography lists the United Nations and Brookings positions as former. The CMU alumni profile still describes the UN role as current; the personal biography is used for the newer transition."
@@ -5412,7 +5412,7 @@
         "note": "Publisher biography and book contents establish authorship and coverage of evaluation, retrieval, agents, fine-tuning and inference."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The sources establish her current professional work but do not specify a current employer; none is inferred."
@@ -5468,7 +5468,7 @@
         "note": "Documents Gibson’s founding and leadership of the AI-native drug-discovery company."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Gibson is not presented as current CEO or board chairman; subsequent April 2026 evidence supersedes the earlier transition plan."
@@ -5524,7 +5524,7 @@
         "note": "Appointment announcement defines his remit and the forum’s safety-research program."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5577,7 +5577,7 @@
         "note": "Reports his interpretability research across Google, OpenAI and Anthropic."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5630,7 +5630,7 @@
         "note": "Urmson’s account describes commercial driverless operations; future fleet goals are not treated as achieved."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5693,7 +5693,7 @@
         "note": "Current official governance page confirms the president and CEO title."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5746,7 +5746,7 @@
         "note": "Original paper identifies Manning and explains the co-occurrence-based model."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5810,7 +5810,7 @@
         "note": "Direct interview host’s profile confirms CEO role in July 2026; used as primary interview evidence."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5864,7 +5864,7 @@
         "note": "Award profile explains local image descriptors, recognition under viewpoint changes and the basis for image search."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5917,7 +5917,7 @@
         "note": "Original Cortes–Vapnik paper introduces classification with nonlinear feature mappings and nonseparable training data."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -5980,7 +5980,7 @@
         "note": "Interview covers on-device AI and inference-chip development."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6043,7 +6043,7 @@
         "note": "Independent profile discusses his founding work and film-industry use."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The January 2026 announcement uses CEO; the current 2026 summit page identifies him as co-CEO."
@@ -6109,7 +6109,7 @@
         "note": "Independent follow-up names UCT's inventors, studies its limits and develops alternative tree-search methods."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6163,7 +6163,7 @@
         "note": "Contemporary report identifies Breazeal as Kismet team leader and explains the robot's expressive feedback and social-learning design."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6216,7 +6216,7 @@
         "note": "Original paper advocates interpretable models for consequential decisions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6280,7 +6280,7 @@
         "note": "Co-authored study develops hidden-layer noise training to improve resistance to corrupted and adversarial image inputs."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The Academy profile retains an older University of Sydney affiliation; the current role follows NTU's official faculty profile."
@@ -6336,7 +6336,7 @@
         "note": "Co-authored paper describes the modular detection toolbox, trained model resources and comparative benchmarks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The institutional page uses “Professor” as a heading and lists “Associate Professor” in its appointment field; the role follows the more specific appointment field."
@@ -6402,7 +6402,7 @@
         "note": "Research account explains the technique and explicitly credits Schuurmans in the project acknowledgements."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6455,7 +6455,7 @@
         "note": "Historical transition records CEO tenure from 2015–2024 and commercialization work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "An earlier announcement names Shelton chief engagement officer; the current leadership page lists chairman of the board."
@@ -6511,7 +6511,7 @@
         "note": "Co-authored benchmark paper introduces a 57-task test and analyzes model shortcomings."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The undated personal page retains an older CAIS executive-director introduction alongside an explicit Meta update. The displayed role follows that update and is descriptive; concurrent CAIS or advisory appointments are not assumed."
@@ -6567,7 +6567,7 @@
         "note": "August 2026 draft identifies both authors and the language-model curriculum."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6620,7 +6620,7 @@
         "note": "Klein and Manning's paper develops unsupervised dependency and constituency models and evaluates across languages."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6684,7 +6684,7 @@
         "note": "Roth and Yih develop global inference over local predictions subject to domain and task constraints."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6747,7 +6747,7 @@
         "note": "Lists both active founders and describes open-source training tools."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6800,7 +6800,7 @@
         "note": "Reports his departure from OpenAI and advocacy for researcher warning protections."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Scenario forecasts are speculative and should not be read as predictions certain to occur."
@@ -6857,7 +6857,7 @@
         "note": "Independent editorial profile corroborates role and AI contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6911,7 +6911,7 @@
         "note": "Corroborates co-founder leadership of Claude's developer and enterprise business."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -6964,7 +6964,7 @@
         "note": "Research Excellence citation recognizes robotic autonomy and multi-agent algorithms."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7027,7 +7027,7 @@
         "note": "Released research implementation credits Chen and documents retriever training, checkpoints and retrieval results."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7080,7 +7080,7 @@
         "note": "2019 interview documents data-driven drug discovery at insitro."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7134,7 +7134,7 @@
         "note": "Corroborates co-founder leadership of Claude's developer and enterprise business."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7187,7 +7187,7 @@
         "note": "Author’s paper analyzes task automation, productivity and inequality; estimates are model-dependent rather than settled forecasts."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7241,7 +7241,7 @@
         "note": "Research highlight identifies Baker and colleagues and explains RFdiffusion's design of experimentally checked protein structures."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7304,7 +7304,7 @@
         "note": "Original paper identifies Blei as co-author and explains inference of political positions from text."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7357,7 +7357,7 @@
         "note": "June 2025 account describes neural ODE contribution and relevance to physical and biological processes."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7410,7 +7410,7 @@
         "note": "Independent reporting describes the founders and model research strategy; older product status is not treated as current."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7463,7 +7463,7 @@
         "note": "Independent profile describes his founding work and creative community."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7516,7 +7516,7 @@
         "note": "Names Krueger as co-author of the research direction on reward learning and scalable supervision."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "He retains academic affiliations with Université de Montréal and Mila but states that he is on faculty leave for 2026."
@@ -7572,7 +7572,7 @@
         "note": "Original guide identifies harms and operational governance measures for UK public-sector AI."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7625,7 +7625,7 @@
         "note": "2026 award identifies incentive-aware mechanisms and fairness."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7688,7 +7688,7 @@
         "note": "Implementation documentation credits Song and describes extracting memorized samples; explicitly distinguishes demonstration code from exact replication."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7741,7 +7741,7 @@
         "note": "Profiles Guo and Meng and their effort to build intuitive video generation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7816,7 +7816,7 @@
         "note": "Documents DeepMind research contributions; its undated CEO title conflicts with newer dated sources."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "DeepMind's undated About page still calls Hassabis CEO. Newer dated reporting and the September 2026 official summit announcement establish the chairman/chief scientist transition. The summit's notes also inconsistently use President; its headline and main biography agree on Chairman."
@@ -7872,7 +7872,7 @@
         "note": "Co-authored paper introduces open-ended visual question answering and its evaluation dataset."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7925,7 +7925,7 @@
         "note": "Co-authored paper describes Habitat’s simulator and API for training and evaluating embodied agents."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -7978,7 +7978,7 @@
         "note": "Identifies Coyle as project lead and its research questions; page says it is no longer actively updated."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8031,7 +8031,7 @@
         "note": "2023 award identifies Bayesian state estimation and learned perception/manipulation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Current UW biography places his external research at Ai2; older NVIDIA affiliation is historical."
@@ -8087,7 +8087,7 @@
         "note": "Co-authored method learns dialogue behavior with human teaching and feedback."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8140,7 +8140,7 @@
         "note": "Lead-authored paper documents capture, annotation and evaluation of everyday kitchen activity."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8193,7 +8193,7 @@
         "note": "Leadership transition records Dolgov’s technical leadership and joint CEO appointment."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8256,7 +8256,7 @@
         "note": "Original manuscript identifies authors and formalizes temporally extended actions as options."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8309,7 +8309,7 @@
         "note": "Announcement records her role in launching the commission and its access and trust priorities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8363,7 +8363,7 @@
         "note": "Sadigh and Hejna develop an algorithm that learns from offline preference data without a separate learned reward function."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8426,7 +8426,7 @@
         "note": "Original coauthored paper formalizes a cooperative partial-information game and learning human rewards."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8489,7 +8489,7 @@
         "note": "Official CEO keynote describes Alibaba’s Qwen models, cloud and AI infrastructure strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8553,7 +8553,7 @@
         "note": "Current official author profile lists Founder and Chief Scientist, with research posts extending into September 2026."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The Forbes profile's CEO title predates Pinecone's September 2025 transition; current official evidence identifies Liberty as chief scientist."
@@ -8609,7 +8609,7 @@
         "note": "Profile and interview describe the company’s data-labeling work for major AI labs."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8674,7 +8674,7 @@
         "note": "Current company site names Dogus Cubuk in the founding team and explains its physical-science research program."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8727,7 +8727,7 @@
         "note": "Independent reporting documents the acquisition and AI infrastructure strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8780,7 +8780,7 @@
         "note": "Interview revisits the 2021 paper and explains Bender's contribution to debate about language models."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8843,7 +8843,7 @@
         "note": "Original Thomas–Brunskill paper describes doubly robust and mixed estimators for policy performance."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8897,7 +8897,7 @@
         "note": "Original paper names Xing and explains learning a metric from similar and dissimilar point pairs through convex optimization."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -8960,7 +8960,7 @@
         "note": "Independent CEO interview explains Modal’s inference infrastructure and developer sandbox services."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9013,7 +9013,7 @@
         "note": "Paper documents authorship, study design and heterogeneous productivity effects among customer-support agents."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9066,7 +9066,7 @@
         "note": "Interview discusses his book, human-AI collaboration and practical adoption."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9129,7 +9129,7 @@
         "note": "Co-author summary reports controlled experiments on reward hacking and misalignment, with a link to the full Anthropic report."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The reward-hacking evidence comes from deliberately constructed experiments; it is not a claim that all deployed models exhibit those behaviors."
@@ -9185,7 +9185,7 @@
         "note": "Award profile names both founders and explains Lovable’s natural-language application-building contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9238,7 +9238,7 @@
         "note": "Independent profile documents his decision to release Falcon models and international uptake."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9291,7 +9291,7 @@
         "note": "Prize account explains ImageNet's role in large-scale computer vision."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9355,7 +9355,7 @@
         "note": "Historical appointment announcement defines the applications business remit."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The 2025 CEO of Applications appointment is historical; her July 2026 announcement establishes the subsequent advisory role."
@@ -9411,7 +9411,7 @@
         "note": "Original research abstract describes attacks reproducing models through prediction interfaces."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9464,7 +9464,7 @@
         "note": "June 2026 interview corroborates current leadership and explains her approach to responsible use and human accountability."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9527,7 +9527,7 @@
         "note": "Original Fan–Toni paper formalizes explanations that justify decisions and expose the decision process."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9591,7 +9591,7 @@
         "note": "Collaborator's software documentation credits Bach and explains practical model-fitting implementations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9644,7 +9644,7 @@
         "note": "Appointment effective August 10, 2026; describes prior Google Cloud leadership and current remit."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9697,7 +9697,7 @@
         "note": "Independent editorial profile discusses his software and reasoning benchmark; unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9751,7 +9751,7 @@
         "note": "Original paper identifies Hutter as co-author and explains TabPFN's synthetic-data training and tabular prediction."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9815,7 +9815,7 @@
         "note": "Identifies her as co-chair and former UNESCO assistant director-general, resolving stale biography wording."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "TISFD's steering biography retains an older UNESCO title. Its draft-framework release and the current Project Syndicate biography identify the UNESCO role as former; the present co-chair role is consistent."
@@ -9881,7 +9881,7 @@
         "note": "Project account attributes the model program to Ramakrishnan and describes PARAM-1's training and Hindi emphasis."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9934,7 +9934,7 @@
         "note": "Book description establishes authorship and arguments about AI limits, governance and corporate power."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -9987,7 +9987,7 @@
         "note": "Co-authored article examines the research challenges of transferring machine learning into embodied systems."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10050,7 +10050,7 @@
         "note": "Original paper confirms authorship, computational models and cross-linguistic meaning-extension findings."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10103,7 +10103,7 @@
         "note": "Prize biography describes neural-network methods and speech/vision breakthroughs."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10156,7 +10156,7 @@
         "note": "Independent practitioner discusses Gerganov’s implementation and its effect on consumer-hardware inference."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10209,7 +10209,7 @@
         "note": "Author’s perspective proposes legal infrastructure for frontier models, agents and regulatory services."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10262,7 +10262,7 @@
         "note": "December 2024 brief includes a foreword co-signed by Neff advocating AI policy aligned with public needs; she is not presented as sole author."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10325,7 +10325,7 @@
         "note": "Coauthored paper explains the platform's code, command-line and web interactions, sandboxed environments and evaluations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10379,7 +10379,7 @@
         "note": "Corroborates the three leaders' respective research, executive and operational responsibilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The official appointment announcement is historical; the August 2026 independent profile corroborates his continuing presidency."
@@ -10435,7 +10435,7 @@
         "note": "Independent reporting names all founders and describes Mistral’s role in European model development."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10488,7 +10488,7 @@
         "note": "Project page identifies Hajishirzi as a lead researcher and describes open model, data and training resources."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10551,7 +10551,7 @@
         "note": "Quotes Pemhiwa on local computing and describes GPU access for African organizations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10624,7 +10624,7 @@
         "note": "Independent account of Chase's software and company."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10677,7 +10677,7 @@
         "note": "Explains the broad applicability and established use of his heuristic-search planning methods."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10740,7 +10740,7 @@
         "note": "Independent profile discusses her AI governance role and arguments for stronger oversight."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The April 2026 testimony release uses Interim Executive Director; the current staff page omits Interim. The date of that title change is not established."
@@ -10806,7 +10806,7 @@
         "note": "Ji's coauthored OneIE paper jointly extracts entity, event and relation graphs and supports multilingual training."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10859,7 +10859,7 @@
         "note": "Launch announcement identifies Virkkunen and describes the Apply AI Strategy; it supports institutional leadership, not sole authorship."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10912,7 +10912,7 @@
         "note": "Publisher describes the book’s workplace-AI investigations, interviews, documents and testing; first published January 2024."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -10966,7 +10966,7 @@
         "note": "Explains RoboCup's autonomous-robotics challenge and credits Kitano with proposing it."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11030,7 +11030,7 @@
         "note": "Event-host profile describes his humanlike androids, Geminoid and research on human-robot interaction."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11093,7 +11093,7 @@
         "note": "Official partnership announcement names Tan as president and CEO and documents Broadcom custom AI accelerators, packaging and networking."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11147,7 +11147,7 @@
         "note": "Independent interview examines his Transformer contribution and user-owned AI work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11211,7 +11211,7 @@
         "note": "Official mission describes simultaneous work on advanced capabilities and safety."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11264,7 +11264,7 @@
         "note": "October 2026 interview documents facial-recognition research, Model Cards and her current focus on accountability infrastructure."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Her assistant-professor and center-fellow appointments begin in fall 2027; they are not her current roles."
@@ -11320,7 +11320,7 @@
         "note": "Co-authored study analyzes access through resources, usability and utility."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Older biographies use Head of Global Policy. Her current personal biography lists Chief Policy Officer and SVP of Strategy; the promotion date is not established."
@@ -11376,7 +11376,7 @@
         "note": "Reimers and Gurevych's paper introduces sentence embeddings and evaluates efficient semantic similarity."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11439,7 +11439,7 @@
         "note": "Independent research implementation credits Augenstein's MultiFC and uses it to investigate evidence leakage and real-world limitations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11492,7 +11492,7 @@
         "note": "Independently credits Guyon's development of support vector machines."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The official biography explicitly ends the Paris-Saclay professorship in 2025 and now lists Google DeepMind."
@@ -11548,7 +11548,7 @@
         "note": "Documents his public-benefit title and discussion of AI’s societal and philosophical implications."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Head of Public Benefit supersedes the older Head of Policy title in Anthropic’s March 2026 announcement."
@@ -11614,7 +11614,7 @@
         "note": "Original coauthored research describes MILAN and tests analysis, auditing and editing of vision models."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11668,7 +11668,7 @@
         "note": "Independent reporting corroborates leadership changes and their product/research responsibilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11731,7 +11731,7 @@
         "note": "Coauthored research releases neuron descriptions and explainer-model weights for interpreting Llama representations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11795,7 +11795,7 @@
         "note": "Current company roster names Abbott as CTO."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The 2024 independent profile calls her COO; the current company roster and personal page both say CTO."
@@ -11851,7 +11851,7 @@
         "note": "Documents her earlier technical leadership as the institute expanded testing and research."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The September 2026 government announcement supersedes older pages listing her as full-time CTO and the Prime Minister’s AI adviser."
@@ -11908,7 +11908,7 @@
         "note": "Independent reporting corroborates his founding role and foundation-model approach."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -11972,7 +11972,7 @@
         "note": "Official appointment biography corroborates GPT-4 and OpenAI Five research leadership."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12025,7 +12025,7 @@
         "note": "Independent CEO interview describes the company’s operating fleet and domestic and international deployment."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12079,7 +12079,7 @@
         "note": "Project repository describes AI-human collaboration, team meetings and experimentally tested nanobody-design demonstration."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12142,7 +12142,7 @@
         "note": "Co-authored research sets out reward modeling and challenges in scaling human supervision."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The personal homepage says lead; his current newsletter biography uses the more specific co-lead."
@@ -12198,7 +12198,7 @@
         "note": "Profile documents his scientific role and Claude 4 risk assessment; sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The independent example concerns Claude 4 in 2025; it does not establish that the same release policy remains in force."
@@ -12254,7 +12254,7 @@
         "note": "Interview summary documents proposed governance capacity and safeguards for emerging AI risks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12307,7 +12307,7 @@
         "note": "CEO announcement records Parikh’s appointment and the organization’s responsibilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12360,7 +12360,7 @@
         "note": "Academic page identifies computer-vision research and co-authorship of Computer Vision: A Modern Approach."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12413,7 +12413,7 @@
         "note": "Announcement identifies Patel’s role and describes integrated AI compute and networking."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12466,7 +12466,7 @@
         "note": "Describes Cardenas’s leadership and robotics collaboration."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12530,7 +12530,7 @@
         "note": "Official site names four founders and describes plans to automate scientific and engineering experiments."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Older Google biographies still describe his former chief-scientist role; the current entry follows the startup’s official site, investor profile and August 2026 reporting."
@@ -12587,7 +12587,7 @@
         "note": "Discusses AI-chip demand and Huang's role in international infrastructure and export debates."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12640,7 +12640,7 @@
         "note": "Independent interview documents fast.ai’s educational approach and efficient student research."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12703,7 +12703,7 @@
         "note": "Independent founder interview."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12756,7 +12756,7 @@
         "note": "2026 citation recognizes neural-symbolic reasoning for physical understanding."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12809,7 +12809,7 @@
         "note": "Reporting names Jiang and reviews StepFun's model development and hardware expansion."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12862,7 +12862,7 @@
         "note": "Original Tang-led paper documents system architecture, profile extraction, disambiguation and search."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12915,7 +12915,7 @@
         "note": "Independent reporting and interview discuss Keller’s open-software strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -12968,7 +12968,7 @@
         "note": "Original R-CNN paper identifies Malik and explains region proposals with convolutional features."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13021,7 +13021,7 @@
         "note": "Research account explains her participation and the principles' focus on human responsibility."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13075,7 +13075,7 @@
         "note": "Independent editorial profile; original article date retained, unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13149,7 +13149,7 @@
         "note": "Company research publication identifies Schulman as its author."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Formal leadership title is established by the May 2025 commencement program and corroborated in the December 2025 alumni profile; the company research article confirms affiliation."
@@ -13205,7 +13205,7 @@
         "note": "Documents Hurst’s spring-mass locomotion research and ATRIAS robot."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13259,7 +13259,7 @@
         "note": "Interview confirms the completed NVIDIA move and describes GPU and LPU inference work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Role label describes the work rather than asserting a formal title: Groq’s announcement documents the move; the March 2026 interview confirms he started at NVIDIA on December 25, 2025."
@@ -13315,7 +13315,7 @@
         "note": "Explains ability-oriented evaluation, cognitive tests, algorithmic information theory and universal psychometrics."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13368,7 +13368,7 @@
         "note": "Independent profile corroborates leadership and describes the specific AI business or infrastructure contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13421,7 +13421,7 @@
         "note": "Interview documents AJL's founding, Gender Shades findings and their use in advocacy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13474,7 +13474,7 @@
         "note": "Independent institute biography corroborates probabilistic and causal reasoning."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13538,7 +13538,7 @@
         "note": "Direct answers describe his work on the Hub and collaborative infrastructure; historical CTO title is not treated as current."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13592,7 +13592,7 @@
         "note": "Original GraphSAGE paper names Leskovec and describes inductive embeddings with citation, social and protein-network evaluations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13646,7 +13646,7 @@
         "note": "Original Hochreiter–Schmidhuber paper introduces LSTM and explains learning across long time intervals."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13699,7 +13699,7 @@
         "note": "Independent profile discusses venture investment and AI entrepreneurship; unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13753,7 +13753,7 @@
         "note": "Original He, Zhang, Ren and Sun paper introduces residual learning and demonstrates easier optimization of substantially deeper networks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13806,7 +13806,7 @@
         "note": "Publisher’s episode summary describes Qiu’s approach to user-directed AI agents."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13859,7 +13859,7 @@
         "note": "Publisher describes the book’s reporting on OpenAI, data labor and resource use and corroborates her journalist-training work; hardcover first published May 2025."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13912,7 +13912,7 @@
         "note": "Profile covers decision-making AI and the company's African origins; sponsor prose excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -13975,7 +13975,7 @@
         "note": "Coauthored companion study documents semantic annotations, coverage and training/evaluation purpose."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14028,7 +14028,7 @@
         "note": "Publisher’s description documents her Clearview AI investigation and the book’s treatment of facial recognition and privacy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14082,7 +14082,7 @@
         "note": "Corroborates the book and visual investigation, including exhibitions and recognition."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14135,7 +14135,7 @@
         "note": "Publisher documents authorship and the book’s treatment of human relationships with robotics."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14188,7 +14188,7 @@
         "note": "Co-authored paper describes learning robust grasps using synthetic depth data and grasp metrics."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14241,7 +14241,7 @@
         "note": "Interview discusses the gap between AI capabilities and deployment in institutions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14294,7 +14294,7 @@
         "note": "Independent reporting explains his remit to bring models into products."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14347,7 +14347,7 @@
         "note": "Original dataset paper names Grauman and details the first-person video and benchmark tasks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14411,7 +14411,7 @@
         "note": "Original paper documents CHIEF's weak supervision, pathology representations and multicohort evaluation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14464,7 +14464,7 @@
         "note": "Independent reporting confirms the CEO and describes HBM supply and capacity investment; forecasts are not treated as outcomes."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14527,7 +14527,7 @@
         "note": "Original paper establishes coauthorship and the soft alignment mechanism."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14590,7 +14590,7 @@
         "note": "Ellison directly describes Oracle cloud datacenter expansion and AI database strategy; forward-looking projections are not treated as realized outcomes."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14643,7 +14643,7 @@
         "note": "Co-authored research explains compute-policy mechanisms, implementation limits and societal risks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "His current personal biography states that RAND employment and teaching roles ended; older organizational profiles may still list them as current."
@@ -14700,7 +14700,7 @@
         "note": "Co-authored paper integrates goal interpretation, hierarchical planning and state estimation for robots facing occlusion and sensing error."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14753,7 +14753,7 @@
         "note": "Browser-read report corroborates Li's ModelBest leadership and open MiniCPM work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Independent report predates the current company news; it is used for established contribution, not as fresh title evidence."
@@ -14820,7 +14820,7 @@
         "note": "Current company page names Fedus in its founding team and describes AI scientists."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14883,7 +14883,7 @@
         "note": "Visible reported opening describes Liang’s commitment to foundation models and Doubao; AI-generated digest was not used."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -14947,7 +14947,7 @@
         "note": "Research report lists Liang as co-author and describes reasoning through reinforcement learning; revision dated January 4, 2026."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15011,7 +15011,7 @@
         "note": "Investor's first-person account and interview describe Qiao building model customization and serving infrastructure; not treated as independent journalism."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15064,7 +15064,7 @@
         "note": "Tan describes AI strategy and coordination of data-center and accelerator roadmaps. Forward-looking product plans are not treated as completed."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15118,7 +15118,7 @@
         "note": "Describes AMD's turnaround, AI accelerators and inference-chip competition."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15171,7 +15171,7 @@
         "note": "Independent reporting describes the founders and model research strategy; older product status is not treated as current."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15234,7 +15234,7 @@
         "note": "Implementation documents approximate kernel ridge regression, scalable computation and Rosasco's coauthored extensions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15297,7 +15297,7 @@
         "note": "Implementation documents neural predicates, available experiments, and the De Raedt coauthored work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15350,7 +15350,7 @@
         "note": "Interview describes the center and Floridi's work on governance and auditing frameworks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15403,7 +15403,7 @@
         "note": "August 2026 biography corroborates her responsibilities for AI strategy, the AI Act and adoption initiatives."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15467,7 +15467,7 @@
         "note": "Event biography lists OpenAI research affiliation and o1/o3 work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Employer talk is dated October 2025; the inspected TEDAI biography is undated and its URL identifies the 2025 panel."
@@ -15533,7 +15533,7 @@
         "note": "Coauthored UAI 2005 paper describes learning grammars and logical forms for natural-language database interfaces."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15587,7 +15587,7 @@
         "note": "Co-authored study describes participatory design and initial evaluation of an in-dorm robot that monitors attention and supplies feedback."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15651,7 +15651,7 @@
         "note": "Interview independently describes Veloso's CoBots navigating buildings and seeking help for tasks beyond their capabilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Her official page dates the JPMorganChase AI Research leadership role as ending in March 2026; it is not presented as current."
@@ -15707,7 +15707,7 @@
         "note": "Peer-reviewed paper identifies Sun's role in developing the capability-density framework."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15770,7 +15770,7 @@
         "note": "Original coauthored paper establishes the theoretical and algorithmic distributional approach."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15823,7 +15823,7 @@
         "note": "Discusses Raibert’s research agenda and the limits of current robot capabilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15886,7 +15886,7 @@
         "note": "Documentation explicitly links the platform's model-card practice to Mitchell and colleagues' paper."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -15939,7 +15939,7 @@
         "note": "Review examines the book's argument about technology companies, AI and government power."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Older sources call her Stanford's International Policy Director; the current institutional biography lists fellowships instead. The transition date is not established."
@@ -16006,7 +16006,7 @@
         "note": "Peer-reviewed model report describes drug-disease graph predictions, explanation module and limited-data evaluation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16060,7 +16060,7 @@
         "note": "Corroborates the three leaders' respective research, executive and operational responsibilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16113,7 +16113,7 @@
         "note": "Co-authored paper connects principles, ethical analysis, technical requirements and regulation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16176,7 +16176,7 @@
         "note": "Zuckerberg describes AI teams, infrastructure investment and product distribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16229,7 +16229,7 @@
         "note": "Co-authored paper proposes auditing of organizations and systems with graded assurance levels."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16282,7 +16282,7 @@
         "note": "Investor-backed account names White as CEO/cofounder and documents water-treatment deployments and optimization use cases."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16335,7 +16335,7 @@
         "note": "Paper by Andrew Johnson and Martial Hebert describes spin-image matching for object recognition under clutter and occlusion."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16398,7 +16398,7 @@
         "note": "Institutional biography corroborates Ghost Work co-authorship and its focus on people training AI."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The current title is supported by her personal biography; the older Indiana biography uses Senior Researcher. The previous Microsoft profile URL redirects to a general directory."
@@ -16454,7 +16454,7 @@
         "note": "Co-authored paper develops online density-ratio estimation with theoretical risk guarantees."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16507,7 +16507,7 @@
         "note": "Independent profile discusses his AI investments; announced spending is not described as completed."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16560,7 +16560,7 @@
         "note": "Independent reporting names both founders and describes speech synthesis, dubbing, and enterprise use."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16613,7 +16613,7 @@
         "note": "Independent profile corroborates leadership and describes the specific AI business or infrastructure contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16666,7 +16666,7 @@
         "note": "Shareholder letter and governance biography document leadership and custom silicon/connectivity strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16730,7 +16730,7 @@
         "note": "Gatys, Ecker and Bethge explain separating and recombining image content and style."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16793,7 +16793,7 @@
         "note": "Croce and Hein's original paper combines complementary attacks and demonstrates weaknesses in reported defenses."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16846,7 +16846,7 @@
         "note": "Interview and reporting discuss FLI’s public campaigns and Tegmark’s AI-governance advocacy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The current institute page uses Chair; the older TIME profile uses President. Risk projections are attributed views, not settled forecasts."
@@ -16912,7 +16912,7 @@
         "note": "Authors' later monograph explains the VAE framework and its generative-model applications."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -16965,7 +16965,7 @@
         "note": "Documents Copycat, her research trajectory and work on foundations of intelligence."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17018,7 +17018,7 @@
         "note": "Publisher describes her analysis of race, gender and ability bias in algorithmic systems; book first published March 2023."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The publisher’s older biography says associate professor; the current NYU faculty biography lists professor."
@@ -17074,7 +17074,7 @@
         "note": "Profiles her critique of AI's dependence on concentrated data and computing resources."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17127,7 +17127,7 @@
         "note": "Original coauthored study details the algorithm and professional-player evaluation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17190,7 +17190,7 @@
         "note": "Coauthored work develops a common geometric framework for neural architectures and structured domains."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17243,7 +17243,7 @@
         "note": "First-person interview and editorial introduction describe Dell’s move into enterprise AI infrastructure."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17306,7 +17306,7 @@
         "note": "Lists Michael as an active founder."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17359,7 +17359,7 @@
         "note": "Award citation explains variational inference and scalable statistical learning."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17412,7 +17412,7 @@
         "note": "Independent profile corroborates leadership and describes the specific AI business or infrastructure contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17465,7 +17465,7 @@
         "note": "2022 citation identifies reinforcement learning, partial observability and state abstraction."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17529,7 +17529,7 @@
         "note": "Truell’s authored account explains Cursor’s development from code completion toward coding agents."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17595,7 +17595,7 @@
         "note": "2025 survey explains the methodology's development and applications across complex multiagent domains."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17649,7 +17649,7 @@
         "note": "Explains how his early work established central multi-agent concepts and advanced rational action, cooperation and decision-making."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17702,7 +17702,7 @@
         "note": "Co-authored engineering article describes model-led delegation and the design of Replit Agent’s execution framework."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17766,7 +17766,7 @@
         "note": "2025 coauthored paper addresses selection, validation and ensembling for conditional average treatment-effect estimation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17829,7 +17829,7 @@
         "note": "Event listing retains the older chief product officer title, conflicting with the dated Labs announcement."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The role label describes his Labs work rather than asserting a formal management title. The January 2026 announcement supersedes older CPO descriptions still appearing in an undated event listing."
@@ -17886,7 +17886,7 @@
         "note": "Independent editorial profile corroborates role and AI contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -17939,7 +17939,7 @@
         "note": "Co-authored paper develops an auditing framework spanning systems and organizational practices."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18003,7 +18003,7 @@
         "note": "Publisher's account explains Tambe's algorithms and long-term security deployments."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18057,7 +18057,7 @@
         "note": "Independent report; paraphrase kept brief."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18110,7 +18110,7 @@
         "note": "Keynote on page xxii describes structured representations, summarization and crosslingual parsing."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18173,7 +18173,7 @@
         "note": "Event host identifies the participating founders and their leadership roles."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The Sequoia profile's displayed publication date predates later events described in its body; no update date is supplied."
@@ -18240,7 +18240,7 @@
         "note": "Original co-authored paper documents the translation models, corpus and evaluation resources for all 22 scheduled languages."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18303,7 +18303,7 @@
         "note": "Project implementation documents cross-modal pretraining and visual question-answering evaluation; model differences from paper are explicit."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18356,7 +18356,7 @@
         "note": "Lab overview documents interdisciplinary audit frameworks, transparency research and collaborative tools for journalists."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18410,7 +18410,7 @@
         "note": "Independent editorial profile corroborates role and AI contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18463,7 +18463,7 @@
         "note": "Sole-authored paper argues for technically grounded and philosophically careful descriptions of language models."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The current Imperial directory identifies emeritus status; older biographies list a regular professorship and DeepMind role. Only the currently documented Imperial appointment is asserted here."
@@ -18520,7 +18520,7 @@
         "note": "Independent reporting corroborates leadership changes and their product/research responsibilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18573,7 +18573,7 @@
         "note": "Her December 2022 statement describes AI for the People’s advocacy for impact assessments and rights-respecting algorithmic systems."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18626,7 +18626,7 @@
         "note": "Describes Khan’s prior contributions and appointment effective January 2026."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18689,7 +18689,7 @@
         "note": "Describes her commissioned report on Kenyan AI policy and governance recommendations; dated May 2021 without a day."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The inclusion rationale concerns published analysis; these sources do not establish adoption of her recommendations."
@@ -18745,7 +18745,7 @@
         "note": "Authored analysis examines five limitations of inclusive AI governance."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The Carnegie Council now labels her AIEI board membership former; that position is not presented as current."
@@ -18801,7 +18801,7 @@
         "note": "Independent profile corroborates his remit."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The role is established by dated July 2025 company remarks and August 2025 reporting; the source-check date does not imply a newly issued appointment."
@@ -18868,7 +18868,7 @@
         "note": "Follow-up co-authored research develops inference and dimension selection for Gaussian-process latent-variable models."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18921,7 +18921,7 @@
         "note": "Primary study demonstrates extraction of memorized examples from GPT-2."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -18974,7 +18974,7 @@
         "note": "Publisher description and contents establish authorship and treatment of the control problem; this page describes the 2016 paperback."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Oxford roles in older publisher biographies are historical. The current personal biography records the Future of Humanity Institute’s closure in 2024."
@@ -19030,7 +19030,7 @@
         "note": "Independent interview with Frosst explains the strategy of tailored enterprise models."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19083,7 +19083,7 @@
         "note": "2026 award recognizes coordination and human-agent collaboration."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19136,7 +19136,7 @@
         "note": "September 2025 congressional testimony sets out her approach to ethical AI design, governance and workforce preparation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19199,7 +19199,7 @@
         "note": "Coauthored follow-up develops more selective noisy aggregation and tighter privacy guarantees."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19252,7 +19252,7 @@
         "note": "Institutional biography corroborates Oxford roles, Open Data Institute co-founding and contributions to web science."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19305,7 +19305,7 @@
         "note": "Alidoust describes open release and research uses of the Tahoe-100M perturbation dataset."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19358,7 +19358,7 @@
         "note": "Describes open model data, code and evaluation resources and identifies Smith as an Olmo lead researcher."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19434,7 +19434,7 @@
         "note": "Original paper names Shazeer among the Transformer co-authors."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Older Gemini and Character.AI titles are historical; current personal biography and June 2026 reporting identify OpenAI."
@@ -19500,7 +19500,7 @@
         "note": "Independently names Oliver as team coordinator and explains the forecasting and intervention challenge."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19553,7 +19553,7 @@
         "note": "Member biography corroborates the ministerial role and describes AI strategy, skills and digital-economy responsibilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19606,7 +19606,7 @@
         "note": "Independent reporting names the four founders and describes their scientific automation project."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19659,7 +19659,7 @@
         "note": "Report names Khatib and describes OceanOne’s perception, control and haptic human interaction."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19722,7 +19722,7 @@
         "note": "Original Narayanan-led paper details camera-based dynamic scene reconstruction and immersive interaction."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19786,7 +19786,7 @@
         "note": "Original project credits Arbeláez and colleagues and provides BSDS500, segmentation algorithms and evaluation protocols."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19839,7 +19839,7 @@
         "note": "Original single-author paper establishes the denoising/score-matching equivalence and probabilistic implications."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19892,7 +19892,7 @@
         "note": "Research paper describes emotion recognition and responsive human-robot communication."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -19955,7 +19955,7 @@
         "note": "Investor account describes Esser's role in the visual-model team and developer focus."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20018,7 +20018,7 @@
         "note": "Primary research demonstrates learning complex behavior using human preference feedback."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The September 2026 board announcement specifies recusal from OpenAI matters and model evaluations in his NIST advisory capacity; previous Head of Safety titles are not current."
@@ -20074,7 +20074,7 @@
         "note": "Reports his autonomous-weapons policy work and subsequent analysis of AI competition."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20127,7 +20127,7 @@
         "note": "Johnson describes the company’s commercial humanoid robotics focus."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20180,7 +20180,7 @@
         "note": "Profiles Lelapa's co-founder and its Vulavula language technology; later role comes from the company."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20233,7 +20233,7 @@
         "note": "Reports G42's international AI partnership and quotes Xiao on advanced open models; updated July 28."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20297,7 +20297,7 @@
         "note": "Personal academic homepage confirms professor title, resolving older associate-professor bio wording."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Stanford profile biography retains 'Associate Professor'; its appointments section and personal homepage both state Professor."
@@ -20353,7 +20353,7 @@
         "note": "Original paper describes masked neighborhood attention and inductive graph-learning experiments."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20406,7 +20406,7 @@
         "note": "Credits theoretical advances for large-margin classifiers, convex optimization and prediction analysis."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20459,7 +20459,7 @@
         "note": "Independent company reporting."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20512,7 +20512,7 @@
         "note": "2026 paper lists Stone as co-author and reports performance against elite players."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20565,7 +20565,7 @@
         "note": "Hennig's coauthored textbook explains computational routines as learning machines and Bayesian inference for numerical algorithms."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20629,7 +20629,7 @@
         "note": "Reported profile describes Nishihara and Moritz building Ray and its adoption by AI teams."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The July 2026 source announces an agreement to join Nscale; this profile does not assume the transaction has closed."
@@ -20685,7 +20685,7 @@
         "note": "Coauthored paper specifies self-generated goals, intrinsic rewards and autonomous curricula, including robotic experiments."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20748,7 +20748,7 @@
         "note": "Detailed biography identifies Soft Actor-Critic among algorithms developed with students."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20801,7 +20801,7 @@
         "note": "2023 citation identifies algorithms and metrics for trustworthy robust AI."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20854,7 +20854,7 @@
         "note": "Independent reporting names both founders and describes speech synthesis and multilingual dubbing."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20907,7 +20907,7 @@
         "note": "Reported analysis adds investment, competition and platform context to Ma’s AI strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -20971,7 +20971,7 @@
         "note": "Mistry's article describes SUTRA reasoning and linguistic diversity; page also states TWO AI is now NUMERIC."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The company now uses NUMERIC branding; the independent 2025 interview uses TwoPlatform. The current CEO page is undated."
@@ -21027,7 +21027,7 @@
         "note": "Also names Kumar and their joint language-technology work."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21080,7 +21080,7 @@
         "note": "Co-authored paper describes a neural controller trained in simulation and deployed on the MIT Mini Cheetah."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21143,7 +21143,7 @@
         "note": "Original paper develops transfer learning across data federations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Older HKUST biographies are historical; PolyU establishes the new appointment from April 2025."
@@ -21199,7 +21199,7 @@
         "note": "Independent reporting names the four founders and describes their scientific automation project."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21262,7 +21262,7 @@
         "note": "2021 seminar revisits the algorithm and continuing NLP applications."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21315,7 +21315,7 @@
         "note": "CV corroborates the AI policy role and describes research and governance work across institutions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Institutional pages use differing academic appointment labels. This profile uses the senior AI policy expert role corroborated by her CV and Northeastern."
@@ -21371,7 +21371,7 @@
         "note": "First-person interview confirms equity-focused algorithms research and Black in AI co-founding."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The current CHAI biography records her move to Tübingen; older Berkeley faculty listings and interviews describe a previous appointment."
@@ -21427,7 +21427,7 @@
         "note": "Research funder explains Mirai's development and prospective screening evaluation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21490,7 +21490,7 @@
         "note": "Original paper confirms Munos's coauthorship and analysis of return distributions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Current affiliation follows the September 2026 paper's explicit Meta FAIR author mapping; older Inria and DeepMind biographies are not used as current-role evidence. The paper does not specify a seniority grade."
@@ -21556,7 +21556,7 @@
         "note": "Reporting connects Ren’s research-investment and cluster-computing remarks to Huawei’s AI-chip efforts."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21609,7 +21609,7 @@
         "note": "Independent profile discusses processor designs and AI chip access; unrelated sponsor material excluded."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21662,7 +21662,7 @@
         "note": "NSF traces reinforcement-learning foundations to Sutton and Barto."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21715,7 +21715,7 @@
         "note": "2020 classic-paper citation explains temporal constraint networks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21779,7 +21779,7 @@
         "note": "Reported profile describes Nishihara and Moritz building Ray and its adoption by AI teams."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The July 2026 source announces an agreement to join Nscale; this profile does not assume the transaction has closed."
@@ -21835,7 +21835,7 @@
         "note": "Independent reporting corroborates Li's leadership and investment in AI products and infrastructure."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21888,7 +21888,7 @@
         "note": "Publisher's accessible newsletter excerpt identifies his Stable Diffusion work and new company."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -21951,7 +21951,7 @@
         "note": "Names Liang and describes its integrated AI architecture."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22004,7 +22004,7 @@
         "note": "Coauthored March 2026 report describes Portuguese training and Brazilian legal, conversational and agentic evaluations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22057,7 +22057,7 @@
         "note": "Grosse-led paper scales influence functions to large language models and examines behavior linked to training examples."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22110,7 +22110,7 @@
         "note": "Independent reporting confirms the appointment and AI background."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22163,7 +22163,7 @@
         "note": "Recognition profile explains her analysis of algorithms and the community-facing work of the lab."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22226,7 +22226,7 @@
         "note": "Reports her role in organizing the large public chatbot red-teaming event."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Humane Intelligence PBC and the nonprofit are distinct organizations. The nonprofit records her departure as its CEO in August 2025; the older TIME title refers to that former role."
@@ -22292,7 +22292,7 @@
         "note": "Original Salakhutdinov–Hinton paper explains learning multiple hidden layers using variational approximations and persistent chains."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22346,7 +22346,7 @@
         "note": "Describes Altman's drug-interaction research using adverse-event reports, medical records and search data."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22400,7 +22400,7 @@
         "note": "Documents Tedrake and his students starting Drake in 2005 and its dynamics, systems and optimization capabilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22463,7 +22463,7 @@
         "note": "Interview introduction corroborates current role and leadership of AI-control research."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22526,7 +22526,7 @@
         "note": "Co-authored paper proposes relational autonomy drawing on Ubuntu ethics."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "University affiliations listed on the 2023 paper are historical; the current personal page labels Harvard and Stanford roles previous."
@@ -22582,7 +22582,7 @@
         "note": "Recognition profile explains the substance and significance of her research."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The MacArthur profile records her 2021 associate-professor title; the current UCLA profile lists Professor."
@@ -22639,7 +22639,7 @@
         "note": "Corroborates the three leaders' respective research, executive and operational responsibilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22702,7 +22702,7 @@
         "note": "Bowman and Dahl analyze limitations of benchmarks and propose design criteria."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "NYU associate professorship is retained while on long-term leave, as stated on his personal biography."
@@ -22758,7 +22758,7 @@
         "note": "Corroborates founding and technical leadership of Anthropic; uses a conflicting CTO title."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Forbes labels him CTO; the current employer directory identifies him as Chief Architect, which is used here."
@@ -22814,7 +22814,7 @@
         "note": "Independent founder interview."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22879,7 +22879,7 @@
         "note": "Project documentation describes simulator-based inference tools and credits the author team."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22943,7 +22943,7 @@
         "note": "Co-authored evaluation and dataset curation reveal limited transfer of skin-lesion models to underrepresented skin images."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -22996,7 +22996,7 @@
         "note": "Original co-authored paper proposes explanations based on changes that would produce a different decision."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23059,7 +23059,7 @@
         "note": "Original coauthored paper describes simultaneous stability and symmetry optimization and experimental comparisons."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23112,7 +23112,7 @@
         "note": "Independent reporting names the four founders and describes their scientific automation project."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23165,7 +23165,7 @@
         "note": "Independent profile corroborates leadership and describes the specific AI business or infrastructure contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "TIME's August 2026 profile includes President in the title; the current Micron biography uses Chairman and CEO, which is the title retained here."
@@ -23231,7 +23231,7 @@
         "note": "Distinct coauthored analysis tests limitations of earlier guarantees and the role of model and algorithm assumptions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23284,7 +23284,7 @@
         "note": "Report credits West, Amba Kak and Kate Brennan and analyzes concentrated AI power and policy alternatives."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23337,7 +23337,7 @@
         "note": "Review and discussion of Roberts's research connects hidden moderation work with automation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23390,7 +23390,7 @@
         "note": "2023 citation identifies cooperation among self-interested agents."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23443,7 +23443,7 @@
         "note": "Reports her carbon-measurement research and developer tools before her later job change."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The 2024 TIME profile describes her former Hugging Face role. The May 2026 launch establishes her subsequent Sustainable AI Group appointment."
@@ -23499,7 +23499,7 @@
         "note": "Describes AI chip verification, generative design tools and simulation strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23562,7 +23562,7 @@
         "note": "Original manuscript identifies authors and formalizes temporally extended actions as options."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23616,7 +23616,7 @@
         "note": "Documents his role in Microsoft's OpenAI investments and cloud partnership."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23669,7 +23669,7 @@
         "note": "December 2024 interview corroborates book co-authorship and discusses evidence, misleading AI claims and public policy. Its student description is historical."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "This profile identifies his current research and writing project rather than treating an announced future faculty appointment as a present job."
@@ -23725,7 +23725,7 @@
         "note": "Guthrie’s announcement describes the Maia 200 inference accelerator and Azure deployment."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23778,7 +23778,7 @@
         "note": "Independent founder interview."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23831,7 +23831,7 @@
         "note": "Publisher identifies Raschka as author and explains the book’s implementation-focused treatment of LLM construction."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The current biography describes self-employment and marks Lightning AI as a former role; older employer biographies should not be read as current."
@@ -23898,7 +23898,7 @@
         "note": "Technical report credits Bubeck and documents small-language-model capabilities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -23951,7 +23951,7 @@
         "note": "Project description identifies her on the coordinating team and explains community-based research on data systems and rights."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24015,7 +24015,7 @@
         "note": "Original Hochreiter–Schmidhuber paper introduces the architecture and long-interval learning mechanism."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24068,7 +24068,7 @@
         "note": "Original Soft Actor-Critic paper identifies Levine and explains off-policy reinforcement learning."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24121,7 +24121,7 @@
         "note": "Coauthored technical paper describes context-focused training and evaluation, rather than claiming universal factual accuracy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24184,7 +24184,7 @@
         "note": "Original paper derives target-domain error bounds and conditions for transfer."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24237,7 +24237,7 @@
         "note": "Independent appointment report describes responsibility for scientific direction."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The directly inspected corporate confirmation is dated October 2025; this is not a claim that the title was newly confirmed in October 2026."
@@ -24303,7 +24303,7 @@
         "note": "Independent Bellet–Habrard paper explicitly adapts Xu and Mannor's framework to metric learning."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24357,7 +24357,7 @@
         "note": "Original co-authored paper explains classifier-guided crawling and topic-specific resource discovery."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24410,7 +24410,7 @@
         "note": "Independent report confirms the move and PyTorch’s broad use."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24463,7 +24463,7 @@
         "note": "Co-authored study evaluates dynamically configured light curtains in a multi-robot manufacturing testbed."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24516,7 +24516,7 @@
         "note": "Coauthored paper characterizes graph-network expressiveness and develops a maximally expressive aggregation architecture."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24569,7 +24569,7 @@
         "note": "Independent company profile traces the Balaban brothers' founding and pivot to GPU hardware and AI cloud services."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The September 2025 Forbes profile predates the May 2026 leadership transition; the current CTO title follows Lambda's announcement."
@@ -24625,7 +24625,7 @@
         "note": "Research profile corroborates Hao’s co-founding role and describes the team’s development of software agents."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24688,7 +24688,7 @@
         "note": "Independent profile examines his investment in African AI computing access."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The sources describe a multi-country infrastructure program; planned factories are not presented here as completed facilities."
@@ -24744,7 +24744,7 @@
         "note": "Original 2016 paper with Laurent Orseau defines safe interruptibility and studies reinforcement-learning algorithms."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The company page uses Chief Mathematician; older company posts used CTO. The paper’s guarantees apply to its formal settings, not all modern AI systems."
@@ -24800,7 +24800,7 @@
         "note": "Authored essay explains uncertainty about objectives; biography identifies textbook."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24863,7 +24863,7 @@
         "note": "Asif's company post directly documents his work with Cursor's engineering and applied-AI team."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Role is stated as co-founder; no additional executive title is inferred from external profiles."
@@ -24919,7 +24919,7 @@
         "note": "Co-authored position paper proposes bidirectional interaction between language models and model-based verifiers."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -24983,7 +24983,7 @@
         "note": "Coauthored prospective cohort study evaluates provider interaction with deployed TREWS; associations do not establish randomized causal effects."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25037,7 +25037,7 @@
         "note": "Documents AI-first strategy and investments in research, TPUs and product integration."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25101,7 +25101,7 @@
         "note": "Sarawagi and Gupta develop jointly trained structured models for web information extraction."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25154,7 +25154,7 @@
         "note": "Lucas and Kanade’s paper develops gradient-based iterative image registration and its application to stereo vision."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25207,7 +25207,7 @@
         "note": "Independent interview describes Amin’s infrastructure strategy, partnerships and investment plans."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25270,7 +25270,7 @@
         "note": "Coauthored paper develops DRO to limit representation disparity without observing group identities."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25323,7 +25323,7 @@
         "note": "Reported profile examines Mawakana’s leadership and deployed driverless rides."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25376,7 +25376,7 @@
         "note": "2024 biography corroborates novelty-aware AI and robust human-AI systems."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25429,7 +25429,7 @@
         "note": "Independent reporting and interview discuss Kurian’s enterprise AI deployment strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25482,7 +25482,7 @@
         "note": "Reporting names all three founders and examines the collaborative model platform; article updated September 9."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25536,7 +25536,7 @@
         "note": "Names Chen among founders and connects OctoAI to TVM and efficient model deployment."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25590,7 +25590,7 @@
         "note": "Independent researcher interview describes QLoRA, bitsandbytes and efficient open-model development."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25643,7 +25643,7 @@
         "note": "Hwang’s report proposes redirecting AI research toward capabilities compatible with democratic institutions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25696,7 +25696,7 @@
         "note": "Recognition biography describes DAIR's focus on AI's effects on marginalized groups."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The Carnegie profile is a 2023 recognition page. The AI Now interview for the 2026 India AI Impact Summit corroborates continuing DAIR leadership; an exact publication day is not established."
@@ -25752,7 +25752,7 @@
         "note": "Independent reporting names Lacroix as a founder and discusses European AI capacity."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25805,7 +25805,7 @@
         "note": "Report identifies Walsh as co-leader of the Fair Sequential Collective Decision-Making research project."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25870,7 +25870,7 @@
         "note": "Original GPT-3 research announcement names Brown first among its authors."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25923,7 +25923,7 @@
         "note": "Partnership describes AI platform and identifies Miller’s leadership. No clinical success is implied."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -25987,7 +25987,7 @@
         "note": "Original co-authored study presents the never-ending-learning paradigm and NELL's accumulated knowledge and reasoning."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26040,7 +26040,7 @@
         "note": "Original coauthored work generates molecular graphs while maintaining chemical validity and evaluates molecular optimization."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26103,7 +26103,7 @@
         "note": "Xiao and Zhang's paper develops an efficient variance-reduced optimization algorithm."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26167,7 +26167,7 @@
         "note": "Original paper establishes authorship and attention-memory optimization."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26231,7 +26231,7 @@
         "note": "Publisher's book description details Marwala's machine-learning approaches to faults in mechanical and electrical systems."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26294,7 +26294,7 @@
         "note": "Srivastava's co-authored company post describes serving, optimizing and post-training models for application companies."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26347,7 +26347,7 @@
         "note": "2021 citation recognizes strategic multi-agent algorithms and optimization."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26411,7 +26411,7 @@
         "note": "Sharka’s authored essay explains sovereignty, trust and European AI capability strategy."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26474,7 +26474,7 @@
         "note": "Coauthored study establishes convergence properties and distinguishes normalized from unnormalized clustering."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26527,7 +26527,7 @@
         "note": "October 2026 volume identifies Aneja among its authors and examines AI strategy, state capacity, evidence and public participation."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26580,7 +26580,7 @@
         "note": "Independent profile describes business applications of generated video."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26644,7 +26644,7 @@
         "note": "Conitzer and Sandholm propose automated construction of mechanisms and analyze computational limits."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26707,7 +26707,7 @@
         "note": "Prakash's signed account explains training, inference and open-model cloud infrastructure."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26760,7 +26760,7 @@
         "note": "Authored paper explains responsible AI as a sociotechnical and organizational challenge."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26813,7 +26813,7 @@
         "note": "Review describes the book's investigations of automated public-service decisions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26867,7 +26867,7 @@
         "note": "Independent editorial profile corroborates role and AI contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26930,7 +26930,7 @@
         "note": "Describes SVM algorithms, widely available implementation and statistical learning theory."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -26993,7 +26993,7 @@
         "note": "Released model card provides authorship, training data, model access and task-specific benchmarks."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27046,7 +27046,7 @@
         "note": "Research profile corroborates Yan’s co-founding role and describes Devin’s evolution into an agentic development environment."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27109,7 +27109,7 @@
         "note": "Recent co-authored research establishes continuing work on Baichuan models; clinical efficacy is not asserted."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The role is limited to founder, established by a dated partner filing; the 2026 paper documents continuing research involvement without establishing a current executive title."
@@ -27165,7 +27165,7 @@
         "note": "Independent explainer describes the founder, relatively affordable robots, and embodied-AI development challenges."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27218,7 +27218,7 @@
         "note": "Appointment notice corroborates AI-policy and web-science contributions; page published 16 June and updated 17 June 2026."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27271,7 +27271,7 @@
         "note": "Authored June 2026 article demonstrates explanatory coverage of AI, employment, science and public responses; Spanish edition read in full."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27324,7 +27324,7 @@
         "note": "Reporting covers Lightning’s software origins, Falcon’s leadership and the expanded AI cloud platform."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27388,7 +27388,7 @@
         "note": "Co-authored account documents Harvey’s AI legal preparation tool and work with lawyers."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27452,7 +27452,7 @@
         "note": "Publisher describes Burgard's co-authored treatment of statistical perception and control under uncertainty; its author affiliations are historical."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27516,7 +27516,7 @@
         "note": "August 2026 event names Kwon as Inferact CTO and vLLM creator and core maintainer."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27570,7 +27570,7 @@
         "note": "Independent editorial profile corroborates role and AI contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The primary acquisition announcement predates TIME’s August 2026 reporting about an ordered unwind; current corporate ownership is not asserted."
@@ -27626,7 +27626,7 @@
         "note": "Co-authored paper analyzes DeepID2+ representations, supervision and robustness to occlusion."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27679,7 +27679,7 @@
         "note": "Lead-authored paper describes non-local operations for visual recognition across spatial and temporal positions."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27732,7 +27732,7 @@
         "note": "Independent reporting identifies the founder and describes the company's model development."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27786,7 +27786,7 @@
         "note": "Independent editorial profile corroborates role and AI contribution."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The primary award profile is associated with the 2023 cohort and has no publication date; TIME independently reports the founder/CEO role in August 2026."
@@ -27842,7 +27842,7 @@
         "note": "2026 interview explains neural networks and world models; biography lists AMI and NYU."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "Earlier biographies list Meta; the May 2026 NYU announcement and 2026 journal biography establish AMI Labs and NYU roles."
@@ -27899,7 +27899,7 @@
         "note": "Gal and Ghahramani develop a Bayesian interpretation of dropout that yields model-uncertainty estimates."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -27963,7 +27963,7 @@
         "note": "Original paper develops the connection between stochastic optimization and posterior sampling."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -28016,7 +28016,7 @@
         "note": "Independent profile explains ATOMIC, COMET and commonsense inferences; UW role is historical."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The 2022 MacArthur profile's Washington/Ai2 roles are historical; Stanford establishes the 2025 move."
@@ -28083,7 +28083,7 @@
         "note": "Chen and Pennock's review explains the market-design results and their information-aggregation purpose."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -28136,7 +28136,7 @@
         "note": "May 2026 analysis identifies Sheng and explains the SGLang infrastructure business."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -28189,7 +28189,7 @@
         "note": "Co-authored paper models task-dependent changes in gaze for attention prediction in egocentric video."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -28252,7 +28252,7 @@
         "note": "Released implementation documents static and fine-tuned word-vector variants and reproduction on movie reviews."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -28305,7 +28305,7 @@
         "note": "Prize biography corroborates deep learning and safety-report work; Mila title is older."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19",
     "uncertainties": [
       "The prize biography retains older Mila leadership wording; the personal official page establishes the newer LawZero and Mila scientific-advisor roles."
@@ -28372,7 +28372,7 @@
         "note": "The course site describes practical data-science instruction and names Matsuo as program representative and supervisor."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -28425,7 +28425,7 @@
         "note": "Pages 12–15 describe ensemble theory, margin distributions and practical algorithms."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -28478,7 +28478,7 @@
         "note": "Wong and Kolter's paper specifies convex relaxation and guarantees for norm-bounded perturbations."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   },
   {
@@ -28532,7 +28532,7 @@
         "note": "Author manuscript explains the probabilistic framework for learning, prediction and decision-making under uncertainty."
       }
     ],
-    "reviewStatus": "ai-reviewed",
+    "reviewStatus": "human-reviewed",
     "checkedOn": "2026-10-19"
   }
 ]

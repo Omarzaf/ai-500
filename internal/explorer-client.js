@@ -1488,7 +1488,7 @@ import {
         category.append(option);
       }
       $("edition-note").textContent =
-        `Edition ${data.edition.editionDate} · Human review ${data.edition.humanReview}`;
+        `Edition ${data.edition.editionDate}`;
       $("loading").hidden = true;
       restoreUrl();
       setMotion();
