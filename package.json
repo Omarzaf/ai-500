@@ -1,0 +1,23 @@
+{
+  "name": "ai-500",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node --import tsx internal/build-public.ts",
+    "preview": "node --import tsx internal/preview-public.ts",
+    "typecheck": "tsc -p internal/tsconfig.json",
+    "test": "node --import tsx --test internal/catalog.test.ts internal/explorer-data.test.ts internal/motion-math.test.mjs internal/portraits.test.ts internal/public.test.ts",
+    "check:portraits": "node --import tsx internal/check-portraits.ts",
+    "verify": "pnpm typecheck && pnpm test && pnpm check:portraits && pnpm build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "prettier": "^3.8.3",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "packageManager": "pnpm@10.15.0",
+  "engines": {
+    "node": "22.x"
+  }
+}

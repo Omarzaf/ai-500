@@ -1,0 +1,17 @@
+{
+  "title": "AI 500",
+  "subtitle": "People shaping artificial intelligence",
+  "editionDate": "2026-10-19",
+  "targetCount": 500,
+  "humanReview": "pending",
+  "categories": [
+    { "id": "research", "title": "Research & discovery", "description": "People advancing the methods and scientific foundations of AI." },
+    { "id": "industry", "title": "Labs & industry", "description": "People directing the development and deployment of AI systems." },
+    { "id": "infrastructure", "title": "Compute & infrastructure", "description": "People shaping the hardware, systems, and capacity behind AI." },
+    { "id": "open-source", "title": "Open source & developer tools", "description": "People building shared software, models, and tools." },
+    { "id": "safety", "title": "Safety & evaluation", "description": "People studying AI behavior, reliability, and consequential risks." },
+    { "id": "governance", "title": "Policy & governance", "description": "People shaping the institutions and rules governing AI." },
+    { "id": "society", "title": "Society & public understanding", "description": "People examining AI's effects on rights, work, culture, and public life." },
+    { "id": "applications", "title": "Applications & access", "description": "People bringing AI into science, health, education, and other practical settings." }
+  ]
+}
