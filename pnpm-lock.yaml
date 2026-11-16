@@ -12,8 +12,8 @@ importers:
         specifier: ^22.10.0
         version: 22.20.5
       prettier:
-        specifier: ^3.8.3
-        version: 3.9.10
+        specifier: ^3.10.1
+        version: 3.10.1
       tsx:
         specifier: ^4.19.2
         version: 4.23.15
@@ -192,8 +192,8 @@ packages:
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
 
-  prettier@3.9.10:
-    resolution: {integrity: sha512-skGHTH1Yb9QvaTC4hWnRTzEYtCpApF0UMBPz+t/0ZPzP8ihefo/btKd+QA7pUE0fEwA1SbS/NmhyEcstdXOIdA==}
+  prettier@3.10.1:
+    resolution: {integrity: sha512-70vp3ZUYoPlFbF9uiTdXHUUCGEIp7d4+6p+8DYbkm2jP7x/3i/paXVF6dopSI3zd/CEitrZN1rc4i85xWmmXlg==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -326,7 +326,7 @@ snapshots:
   fsevents@2.3.3:
     optional: true
 
-  prettier@3.9.10: {}
+  prettier@3.10.1: {}
 
   tsx@4.23.15:
     dependencies:
